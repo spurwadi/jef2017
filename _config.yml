@@ -16,17 +16,17 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "https://tpuny2014.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "EdTech"
+organizerAlternateName: "Educational Technology Yogyakarta State University"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -57,9 +57,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> on Jogja Edufest 2017"
-eventDate: "May 2017"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+eventDate: "on May 2017"
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Seminar", "Playground", "Have fun"'
+typeoutFallback: "Exhibitions"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -92,7 +92,7 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "Gratama Pustaka"
 eventLocationLink: "https://www.facebook.com/grhatamapustaka/"
-eventStreetAddress: "Jl. Janti, Banguntapan"
+eventStreetAddress: "Jalan Janti, Banguntapan"
 eventAddressLocality: "Bantul"
 eventAddressLocalityRegion: "Yogyakarta"
 eventPostalCode: "55198"
@@ -213,8 +213,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-7.7992579, 110.4028281"
+logisticsMapMobileCenterCoordinates: "-7.8001749, 110.4065381"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block

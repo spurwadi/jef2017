@@ -57,8 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> on Jogja Edufest 2017"
-eventDate: "on May 2017"
-typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Seminar", "Playground", "Have fun"'
+eventDate: "May 2017"
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Workshops", "Playground", "Have fun"'
 typeoutFallback: "Exhibitions"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -100,9 +100,9 @@ eventAddressCountry: "Indonesia"
 eventStartTime: "2017-03-01T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2017-03-30T20:00"
-eventPlaceCoordinates: "-7.7985579, 110.4058781"
-mapCenterCoordinates: "-7.7992579, 110.4028281"
-mapMobileCenterCoordinates: "-7.8001749, 110.4065381"
+eventPlaceCoordinates: "-7.7985579,110.4058781"
+mapCenterCoordinates: "-7.7992579,110.4028281"
+mapMobileCenterCoordinates: "-7.8001749,110.4065381"
 
 # Venue Block
 venueBlockTitle: "Venue"

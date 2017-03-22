@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, edtech, yogyakarta, education, universitas negeri yogyakarta, teknologi pendidikan"
 twitterAccount: "@JogjaEduFair"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/footprint/", text: "Footprint"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -193,10 +194,14 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:jogjaedufair@gmail.com", text: "jogjaedufair@gmail.com"}
+   - {link: "tel:+628123456789", text: "+628123456789"}
+   - {text: "Laboratorium Jurusan Kurikulum dan Teknologi Pendidikan, Gedung pusat FIP lantai 2, UNY, Jalan Colombo no 1 CT, Depok, Sleman  
+"}
  -
-  title: "FAQ"
+  title: "Download"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   # - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/", text: "Pamflet"}
 
 # Blog
 blogTitle: "Latest news"

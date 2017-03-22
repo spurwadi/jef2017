@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2014-07-21 08:00:00
+title:  "Seputar Jogja EduFair 2017"
+date:   2017-03-23 08:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+Di era yang semakin canggih ini, kami menyadari begitu cepatnya perkembangan teknologi di luar sana yang harus senantiasa diimbangi dengan kemampuan Sumber Daya Manusia untuk mengolahnya. Sebagai contoh adanya perkembangan teknologi dari teknologi cetak, audiovisual, berbasis komputer, hingga teknologi terpadu. Semua jenis perkembangan ini perlu juga diterapkan dalam dunia pendidikan terkait dengan memfasilitasi belajar dan meningkatkan kinerja sebagai konsep dari Teknologi Pendidikan itu sendiri.
 
-This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+Dengan berpijak pada tujuan tersebut, tahun ini kami mencoba menampilkan karya-karya terbaik kami baik berupa media-media pembelajaran inovatif yang juga berdampak pada metode-metode pembelajaran yang semakin humanis dengan disertai rangkaian acara lain seperti diskusi, workshop, dan lomba yang kami tujukan untuk semua kalangan. Karya-karya ini ditujukan untuk memberikan gambaran dari perkembangan teknologi dibidang pendidikan. Sebab kami menyadari bahwa perkembangan dunia pendidikan dari masa ke masa mengalami perubahan dan terus memperbaruhi sesuai dengan tuntutan zaman. Untuk itu kami mengusung tema Parameter Pendidikan Indonesia. 
 
-So should you also be excited? Well yes... and here's why!
+Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama dari berbagai pihak, untuk bersama-sama membuat sebuah usaha guna menyebarluaskan pemahaman tentang perkembangan dunia pendidikan, yang akan dikemas dalam acara yang telah kami susun konsepnya.
 
 * **Attendance**: we're expecting over 350 attendees
 * **Topic**: more than 48 hours of pure Google technologies 

@@ -71,6 +71,8 @@ aboutBlock:
  - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Seminar", image: "seminar.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Playground", image: "playground.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+  - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -118,7 +120,8 @@ venueFeatures: ["The Indonesian bigest library ", "Located directly in the city 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "JogjaEduFair"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "https://twitrss.me/twitter_user_to_rss/?user=s_purwadi"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"

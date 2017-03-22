@@ -10,10 +10,34 @@
   place: "Dining room"
   service: true
 -
+  id: 600
+  title: "ISHOMA"
+  place: "Dining room"
+  service: true
+-
   id: 601
-  title: "Registrasi Seminar Meaningful Learning"
+  title: "Registrasi"
   place: "Meja registrasi"
   service: true
+  description: "Registrasi seminar Meaningful Learning"
+-
+id: 602
+  title: "Registrasi"
+  place: "Meja registrasi"
+  service: true
+  description: "Registrasi peserta lomba cerdas tangkas & lomba mewarnai"
+-
+id: 603
+  title: "Registrasi"
+  place: "Meja registrasi"
+  service: true
+  description: "Registrasi lomba cerdas tangkas babak final"
+-
+id: 604
+  title: "Registrasi"
+  place: "Meja registrasi"
+  service: true
+  description: "Registrasi peserta pelatihan"
 -
   id: 001
   title: "Material design: Visual style and imagery"
@@ -62,7 +86,51 @@
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-  
+-
   id: 006
-  title: "Registrasi Seminar Meaningful Learning"
-  description: "Registrasi di meja registrasi"
+  title: "Seminar Meaningful Learning Sesi I"
+  description: "Seminar meaningful learning adalah"
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 007
+  title: "Seminar Meaningful Learning Sesi II"
+  description: "Seminar meaningful learning adalah"
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 008
+  title: "Opening Ceremony"
+  description: "Opening ceremony adalah"
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 009
+  title: "Lomba Cerdas Tangkas Babak Penyisihan"
+  description: "Babak penyisihan akan "
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 010
+  title: "Lomba Cerdas Tangkas Babak Final"
+  description: "FInal"
+  subtype: keynote
+  speakers: [7, 4]
+ -
+  id: 011
+  title: "Lomba Mewarnai"
+  description: "Ayo mewarnai"
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 012
+  title: "Pelatihan"
+  description: "Seminar meaningful learning adalah"
+  subtype: keynote
+  speakers: [7, 4]
+-
+  id: 006
+  title: "Talkshow"
+  description: "Talkshow Waktunya Masyarakat Belajar"
+  subtype: keynote
+  speakers: [7, 4]

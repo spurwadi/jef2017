@@ -195,7 +195,7 @@ footerBlocks:
   links:
    - {link: "mailto:jogjaedufair@gmail.com", text: "jogjaedufair@gmail.com"}
    - {link: "tel:+628123456789", text: "+628123456789"}
-   - {text: "Laboratorium Jurusan Kurikulum dan Teknologi Pendidikan, Gedung pusat FIP lantai 2, UNY, Jalan Colombo no 1 CT, Depok, Sleman  
+   - {link: "https://www.google.com/maps?z=16&q=laboratorium+jurusan+kurikulum+dan+teknologi+pendidikan,+gedung+pusat+fip+lantai+2,+uny,+jalan+colombo+no+1+ct,+depok,+sleman", text: "Laboratorium Jurusan Kurikulum dan Teknologi Pendidikan, Gedung pusat FIP lantai 2, UNY, Jalan Colombo no 1 CT, Depok, Sleman  
 "}
  -
   title: "Download"

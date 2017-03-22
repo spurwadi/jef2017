@@ -37,12 +37,12 @@
     - {
       startTime: "09:00",
       endTime: "10:00",
-      sessionIds: [008]
+      sessionIds: [003]
     }
     - {
     	startTime: "10:00",
     	endTime: "12:00",
-    	sessionIds: [009, 404, 011]
+    	sessionIds: [404, 404, 005]
     }
     - {
       startTime: "11:30",
@@ -57,7 +57,7 @@
     - {
     	startTime: "13:00",
     	endTime: "15:00",
-    	sessionIds: [012, 404, 404]
+    	sessionIds: [002, 404, 404]
     }
 - 
   date: "2014-10-20"

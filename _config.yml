@@ -62,7 +62,8 @@ typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Workshops", "Playg
 typeoutFallback: "Exhibitions"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#partners", text: "Become a sponsor"}
+ ##- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Jogja EduFest 2017"

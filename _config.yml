@@ -302,6 +302,7 @@ hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 # Hackathon About Block
 aboutFootprintTitle: "EdTech in action"
+aboutFootprint: "Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Bertujuan untuk memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan Prodi Teknologi Pendidikan seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul-modul pembelajaran, hingga metode – metode pembelajaran. Kreasi dan inovasi ini diciptakan dan dikembangkan mengikuti perkembangan teknologi yang ada."
 footprintRows:
  - {title: "2013", image: "hackathon-0.png", details: "Diselenggarakan di Benteng Vredeburg dengan menghadirkan bintang tamu jazz terkenal Paksi Raras Alit dan juga mengadakan berbagai lomba untuk pelajar dan masyarakat umum. Event ini dihadiri oleh ratusan pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat."}
  - {title: "2014", image: "hackathon-1.png", details: "Diselenggarakan di Museum Pendidikan Indonesia dengan tajuk acara adalah Festival Teknologi Pendidikan “Yo Dolan Yo Sinau”. Kegiatan yang diselenggarakan, adalah pameran media pembelajaran, seminar nasional, lomba mewarnai, lomba fotografi untuk pembelajaran, lomba kreativitas siswa dan pagelaran seni dan budaya. Event ini dihadiri oleh 1040 pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat."}

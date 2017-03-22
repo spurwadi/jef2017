@@ -75,9 +75,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "1650", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "120", specialCharacter: "+", info: "media", detail: "exhibitions"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -111,8 +111,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Grhatama Pustaka"
+venueFeatures: ["The Indonesian bigest library ", "Located directly in the city center", "The Special Region of Yogyakarta"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

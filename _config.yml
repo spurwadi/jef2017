@@ -78,10 +78,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1650", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "2000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "120", specialCharacter: "+", info: "media", detail: "exhibitions"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "artist", detail: "and community"}
+ - {count: "5", specialCharacter: "", info: "artists", detail: "and local communities"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -115,7 +115,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Grhatama Pustaka"
-venueFeatures: ["The Indonesian bigest library ", "Located directly in the city center", "The Special Region of Yogyakarta"]
+venueFeatures: ["Indonesian bigest library", "with 6D Cinema", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

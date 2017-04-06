@@ -12,31 +12,31 @@
 -
   id: 600
   title: "ISHOMA"
-  place: "Dining room"
+  place: "Pustaka Grhatama"
   service: true
 -
   id: 601
   title: "Registrasi"
   place: "Meja registrasi"
-  service: true
-  description: "Registrasi seminar Meaningful Learning"
+  service: false
+  description: "Registrasi peserta seminar Meaningful Learning"
 -
   id: 602
   title: "Registrasi"
   place: "Meja registrasi"
-  service: true
+  service: false
   description: "Registrasi peserta lomba cerdas tangkas & lomba mewarnai"
 -
   id: 603
   title: "Registrasi"
   place: "Meja registrasi"
-  service: true
-  description: "Registrasi lomba cerdas tangkas babak final"
+  service: false
+  description: "Registrasi peserta lomba cerdas tangkas babak final"
 -
   id: 604
   title: "Registrasi"
   place: "Meja registrasi"
-  service: true
+  service: false
   description: "Registrasi peserta pelatihan"
 -
   id: 001

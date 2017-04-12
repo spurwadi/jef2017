@@ -59,8 +59,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero2.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
-eventDate: "on May"
-typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Workshops", "Playground", "Training", "Have fun"'
+eventDate: "18 - 20 May"
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Workshops", "Playground", "Training", "Have fun :)"'
 typeoutFallback: "Exhibitions"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -72,7 +72,6 @@ aboutTitle: "About Jogja EduFair 2017"
 aboutBlock:
  - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Seminar", image: "seminar.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Talkshow", image: "seminar.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Playground", image: "playground.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
  - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 
@@ -176,7 +175,7 @@ ticketsOffers:
   ticketContentList: ["Logo on website", "Goodiebag inserts", "Banners in the conference hall"]
   validFrom: "2017-02-01T10:00"
   validThrough: "2017-04-20T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Sold Out"
 
 # Footer

@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Jogja EduFair 2017"
-email: ""
-description: "Jogja EduFair is a set of events all around the world"
+email: "jogjaedufair@gmail.com"
+description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta"
 baseurl: ""
 url: "https://sigit.purwadi.web.id"
 permalink: "/blog/:title"
@@ -21,7 +21,7 @@ permalink: "/blog/:title"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "EdTech"
+organizerName: "Educational Technology"
 organizerAlternateName: "Educational Technology Yogyakarta State University"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "jogjaedufair@gmail.com"
@@ -71,6 +71,7 @@ aboutTitle: "About Jogja EduFair 2017"
 aboutBlock:
  - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Seminar", image: "seminar.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Talkshow", image: "seminar.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Playground", image: "playground.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
  - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 
@@ -115,13 +116,13 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Grhatama Pustaka"
-venueFeatures: ["Indonesian bigest library", "with 6D Cinema", "Located directly in the city center"]
+venueFeatures: ["Indonesian biggest library", "with 6D Cinema", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "JogjaEduFair"
-twitterFeed: "https://twitrss.me/twitter_user_to_rss/?user=s_purwadi"
+twitterFeed: "https://twitrss.me/twitter_user_to_rss/?user=jogjaedufair"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -140,11 +141,11 @@ ticketsTitle: "Open Sponsor"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Platinum Sponsor"
-  price: "350"
+  name: "Gold Sponsor"
+  price: "1000 - 4900"
   priceCurrency: "k"
   ticketsNumber: "150"
-  ribbon: "-5%"
+  ribbon: ""
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Logo on website", "Meet our sponsor blog post", "Banners on the stage"]
@@ -152,10 +153,10 @@ ticketsOffers:
   validThrough: "2017-04-20T23:59"
  -
   name: "Diamond Sponsor"
-  price: "450"
+  price: "5000 - 10000"
   priceCurrency: "k"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: ""
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -164,8 +165,8 @@ ticketsOffers:
   validThrough: "2017-04-20T23:59"
   disabled: false
  -
-  name: "Gold Sponsor"
-  price: "200"
+  name: "Silver Sponsor"
+  price: "500 - 900"
   priceCurrency: "k"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -202,7 +203,7 @@ footerBlocks:
   links:
    # - {permalink: "/cod/", text: "Code of Conduct"}
    - {permalink: "/", text: "Pamflet"}
-   - {permalink: "/", text: "Denah Lokasi"}
+   - {permalink: "/assets/denah.jpg", text: "Denah Lokasi"}
 
 # Blog
 blogTitle: "Latest news"

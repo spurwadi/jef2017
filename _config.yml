@@ -142,7 +142,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Gold Sponsor"
-  price: "1000 - 4900"
+  price: "1000"
   priceCurrency: "k"
   ticketsNumber: "150"
   ribbon: ""
@@ -153,7 +153,7 @@ ticketsOffers:
   validThrough: "2017-04-20T23:59"
  -
   name: "Diamond Sponsor"
-  price: "5000 - 10000"
+  price: "5000"
   priceCurrency: "k"
   ticketsNumber: "100"
   ribbon: ""
@@ -166,7 +166,7 @@ ticketsOffers:
   disabled: false
  -
   name: "Silver Sponsor"
-  price: "500 - 900"
+  price: "500"
   priceCurrency: "k"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"

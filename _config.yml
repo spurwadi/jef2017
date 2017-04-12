@@ -36,9 +36,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
+c4sponsorsUrl: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
 
 # Navigation
 navigationLinks:
@@ -51,9 +52,9 @@ navigationLinks:
  - {permalink: "/footprint/", text: "Footprint"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
+ - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
+ - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero2.jpg"
@@ -146,8 +147,8 @@ ticketsOffers:
   priceCurrency: "k"
   ticketsNumber: "150"
   ribbon: ""
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
+  buyButtonText: "Become Sponsor"
   ticketContentList: ["Logo on website", "Meet our sponsor blog post", "Banners on the stage"]
   validFrom: "2017-02-01T10:00"
   validThrough: "2017-04-20T23:59"
@@ -158,8 +159,8 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: ""
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
+  buyButtonText: "Become Sponsor"
   ticketContentList: ["Logo on website", "Booth Space", "Banners on the stage"]
   validFrom: "2017-02-01T00:00"
   validThrough: "2017-04-20T23:59"
@@ -169,8 +170,8 @@ ticketsOffers:
   price: "500"
   priceCurrency: "k"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
+  buyButtonText: "Become Sponsor"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Logo on website", "Goodiebag inserts", "Banners in the conference hall"]
   validFrom: "2017-02-01T10:00"
@@ -196,7 +197,7 @@ footerBlocks:
   links:
    - {link: "https://www.google.com/maps?z=16&q=laboratorium+jurusan+kurikulum+dan+teknologi+pendidikan,+gedung+pusat+fip+lantai+2,+uny,+jalan+colombo+no+1+ct,+depok,+sleman", text: "Laboratorium Jurusan Kurikulum dan Teknologi Pendidikan, Gedung pusat FIP lantai 2, UNY, Jalan Colombo no 1 CT, Depok, Sleman  
 "}
-   - {link: "tel:+6289656571751", text: "+62896-5657-1751 (Tera)"}
+   - {link: "tel:+6289656571751", text: "+62 896-5657-1751 (Tera)"}
    - {link: "mailto:jogjaedufair@gmail.com", text: "jogjaedufair@gmail.com"}
  -
   title: "Download"

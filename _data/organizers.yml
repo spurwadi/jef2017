@@ -5,5 +5,4 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "Dies Natalis UNY 53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.png"}
     - {name: "TP FIP UNY", description: "Kurikulum dan Teknologi Pendidikan UNY", link: "http://tp.fip.uny.ac.id", imageUrl: "tp2014.jpg"}

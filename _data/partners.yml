@@ -1,8 +1,8 @@
 - 
   group: "General sponsor"
   elements: 
+    - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.png"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 - 
   group: "With support of"
   elements: 

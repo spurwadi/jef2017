@@ -16,14 +16,14 @@
   service: true
 -
   id: 601
-  title: "Registrasi"
-  place: "Meja registrasi"
+  title: "Registrasi Peserta"
+  place: "Meja registrasi (Ruang Seminar)"
   service: false
   description: "Registrasi peserta seminar Meaningful Learning"
 -
   id: 602
-  title: "Registrasi"
-  place: "Meja registrasi"
+  title: "Registrasi Peserta"
+  place: "Meja registrasi (Ruang Transit)"
   service: false
   description: "Registrasi peserta lomba cerdas tangkas & lomba mewarnai"
 -
@@ -43,7 +43,7 @@
   title: "Seminar Meanigful Learning"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [6]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -60,11 +60,9 @@
 -
   id: 003
   title: "Opening Ceremony"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
+  description: "Opening ceremony ini merupakan awal dari beberapa rangkaian acara dalam Jogja Edufair 2017 yang akan menjadi penanda bahwa kegiatan pameran ini resmi dibuka untuk masyarakat umum. Acara ini akan dihadiri oleh Rektor Universitas Negeri Yogyakarta, Dekan Fakultas Ilmu Pendidikan UNY, Ketua Jurusan Kurikulum dan Teknologi Pendidikan UNY, Kepala Grhatama Pustaka DIY, dosen – dosen Teknologi Pendidikan, serta pejabat lain yang terkait. Acara dilaksanakan di halaman Grhatama Pustaka DIY dimana kegaitan pameran akan berlangsung."
+  subtype: workshop
+  speakers: [3]
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004

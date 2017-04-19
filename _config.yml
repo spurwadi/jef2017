@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/Logo Transp.png"
 organizerLink: "http://tp.fip.uny.ac.id/"
 
 # Head
-metaKeywords: "event, edtech, yogyakarta, education, universitas negeri yogyakarta, teknologi pendidikan"
+metaKeywords: "kurikulum dan teknologi pendidikan, teknologi pendidikan, edtech, educational technology, yogyakarta, UNY, universitas negeri yogyakarta, JEF, edufair"
 twitterAccount: "@JogjaEduFair"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -57,13 +57,13 @@ rightNavigationButtons:
  - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero3.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
-eventDate: "18 - 20 May"
-typeoutTextValues: '"", "Exhibitions", "EdTech", "Talkshow", "Workshops", "Playground", "Training", "Have fun :)"'
+eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/> 18 - 20 May 2017"
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Have fun :)"'
 typeoutFallback: "Exhibitions"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ ##- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#partners", text: "Become a sponsor"}
  ##- {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -215,7 +215,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh program studi Teknologi Pendidikan UNY dengan tujuan memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan program studi Teknologi Pendidikan, seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul pembelajaran, dan sebagainya.<br/>Kami mencoba menampilkan dengan berbagai karya dan rangkaian acara yang dikemas semenarik mungkin agar pesan dapat tersampaikan kepada semua kalangan."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

@@ -25,15 +25,21 @@
   title: "Registrasi Peserta"
   place: "Meja registrasi (Ruang Transit)"
   service: false
-  description: "Registrasi peserta lomba cerdas tangkas & lomba mewarnai"
+  description: "Registrasi peserta lomba mewarnai"
 -
   id: 603
-  title: "Registrasi"
+  title: "Registrasi Peserta"
+  place: "Meja registrasi (Ruang Transit)"
+  service: false
+  description: "Registrasi peserta lomba cerdas tangkas"
+-
+  id: 604
+  title: "Registrasi Peserta"
   place: "Meja registrasi"
   service: false
   description: "Registrasi peserta lomba cerdas tangkas babak final"
 -
-  id: 604
+  id: 605
   title: "Registrasi"
   place: "Meja registrasi"
   service: false
@@ -77,11 +83,20 @@
 -
   id: 005
   title: "Education Clinic"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Konsep klinik pembelajaran ini berupa konseling, dimana klien dapat melakukan tanya jawab maupun refleksi terkait permasalahan pembelajaran. Klinik dapat memberikan pilihan – pilihan solusi untuk mengatasi masalah tersebut. Dalam klinik pembelajaran ini akan ada konselor yang berasal dari mahasiswa Teknologi Pendidikan (konsentrasi Teknologi Kinerja & Pengelolaan Pembelajaran). Sedangkan untuk klien sendiri dapat berasal dari pelajar, guru, maupun masyarakat umum."
   subtype: keynote
   speakers: [7]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
+-
+  id: 006
+  title: "Lomba Mewarnai"
+  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
+  subtype: workshop
+-
+  id: 007
+  title: "Pentas Seni dan Sharing Komunitas"
+  description: "Pentas seni ini ditujukan untuk berbagai komunitas di D.I.Yogyakarta seperti komunitas seni, musik, maupun hobi. Acara ini akan menampilkan kreasi seni dari berbagai komunitas misalnya pertunjukan musik, tari, drama, hingga sharing tentang komunitas itu sendiri."
+  subtype: workshop

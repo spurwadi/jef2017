@@ -34,7 +34,7 @@
     - {
        startTime: "14:00",
        endTime: "16:00",
-       sessionIds: [003]
+       sessionIds: [005]
     }
 - 
   date: "2017-05-19"

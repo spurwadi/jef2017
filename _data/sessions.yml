@@ -40,8 +40,8 @@
   description: "Registrasi peserta pelatihan"
 -
   id: 001
-  title: "Seminar Meanigful Learning"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Seminar Meaningful Learning"
+  description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain. Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
   subtype: workshop
   speakers: [6]
   language: en

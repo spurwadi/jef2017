@@ -59,7 +59,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero3.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
-eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/> 18 - 20 May 2017"
+eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/><br/> <b>18 - 20 May 2017</b>"
 typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Have fun :)"'
 typeoutFallback: "Exhibitions"
 heroButtons:

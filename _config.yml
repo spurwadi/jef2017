@@ -14,19 +14,19 @@ title: "Jogja EduFair 2017"
 email: "jogjaedufair@gmail.com"
 description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta"
 baseurl: ""
-url: "https://jogjaedufair.id"
+url: "http://jogjaedufair.id"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
-# googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "jogjaedufair.id"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Educational Technology"
+organizerName: "Kurikulum dan Teknologi Pendidikan Universitas Negeri Yogyakarta"
 organizerAlternateName: "Educational Technology Yogyakarta State University"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "jogjaedufair@gmail.com"
 organizerLogo: "/img/seo/Logo Transp.png"
-organizerLink: "/"
+organizerLink: "http://tp.fip.uny.ac.id/"
 
 # Head
 metaKeywords: "event, edtech, yogyakarta, education, universitas negeri yogyakarta, teknologi pendidikan"

@@ -1,7 +1,7 @@
 - 
   id: 3
-  name: "Prof. Dr."
-  surname: "Sutrisna Wibawa, M.Pd."
+  name: ""
+  surname: "Prof. Dr. Sutrisna Wibawa, M.Pd."
   title: "Rektor Universitas Negeri Yogyakarta periode 2017-2021"
   bio: "Pria kelahiran Gunungkidul, 11 September 1959 ini adalah Guru Besar di bidang Filsafat Jawa. Doktor lulusan Universitas Gadjah Mada ini mejadi Sekretaris Direktorat Jenderal Pembelajaran dan Kemahasiswaan sejak September 2016 berbekal pengalaman 14 tahun dalam manajemen pendidikan selama menjadi Pembantu Rektor II pada masa pemerintahan 2004-2008 dan 2008-2012 serta saat menjadi Pembantu Dekan II pada 1999-2003 di Universitas Negeri Yogyakarta. Selama masa kerjanya, ilmu dan pengalaman ia bagikan di media massa, beberapa diantaranya adalah karya ilmiah berjudul Profesionalisme dan Kesejahteraan Guru (Kedaulatan Rakyat) dan Pengembangan Program Income Generating di Perguruan Tinggi serta Pengelolaan Jurnal Ilmiah (Majalah Pewara Dinamika)."
   thumbnailUrl: sutrisnawibawa.jpg
@@ -10,12 +10,12 @@
     - {name: "site", link: "https://www.uny.ac.id/fokus-kita/prof-dr-sutrisna-wibawa-mpd"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
+  name: ""
+  surname: "Dr. Haryanto, M.Pd."
+  company: "Universitas Negeri Yogyakarta"
+  title: "Dekan Fakultas Ilmu Pendidikan"
   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: haryanto.jpg
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -23,12 +23,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
+  name: ""
+  surname: "Dr. Sugeng Bayu Wahyono M.Si."
+  company: "Universitas Negeri Yogyakarta"
+  title: "Ketua Jurusan Kurikulum dan Teknologi Pendidikan"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: sugengbayu.jpg
   rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -38,12 +38,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
+  name: ""
+  surname: "Rakhmat Hidayat, Sos., M. Si."
+  company: "Universitas Negeri Jakarta"
+  title: "Dosen Sosiologi"
   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: rakhmathidayat.jpg
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -52,10 +52,10 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
+  name: ""
+  surname: "Bahruddin"
   company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
+  title: "Pendiri sekolah Qaryah Thayyibah"
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: false

@@ -49,7 +49,7 @@
   title: "Seminar Meaningful Learning"
   description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain. Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
   subtype: workshop
-  speakers: [6]
+  speakers: [5, 6, 7]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/sjDVaxkzZ00"
@@ -58,7 +58,7 @@
   title: "Pelatihan Pengorganisasian Materi Pembelajaran"
   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: []
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -72,11 +72,9 @@
 -
   id: 004
   title: "Talkshow: Waktunya Masyarakat Belajar"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara. "
   subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
+  speakers: []
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -84,7 +82,7 @@
   title: "Education Clinic"
   description: "Konsep klinik pembelajaran ini berupa konseling, dimana klien dapat melakukan tanya jawab maupun refleksi terkait permasalahan pembelajaran. Klinik dapat memberikan pilihan – pilihan solusi untuk mengatasi masalah tersebut. Dalam klinik pembelajaran ini akan ada konselor yang berasal dari mahasiswa Teknologi Pendidikan (konsentrasi Teknologi Kinerja & Pengelolaan Pembelajaran). Sedangkan untuk klien sendiri dapat berasal dari pelajar, guru, maupun masyarakat umum."
   subtype: keynote
-  speakers: [7]
+  speakers: []
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -92,7 +90,7 @@
 -
   id: 006
   title: "Lomba Mewarnai"
-  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
+  description: "<img src="https://pbs.twimg.com/media/B_24YZLWEAA5Gd8.jpg"/><br/>Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
   subtype: workshop
 -
   id: 007

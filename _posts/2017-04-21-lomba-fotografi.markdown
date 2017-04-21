@@ -37,6 +37,14 @@ Setiap peserta mendapatkan sertifikat
 
 #### Contact Person
 
-Line: __@ftj7214w (Jogja Edufair)
+SMS/WA: <a href="tel:085701438704">085701438704</a> (Anggi)
 
-Whatsapp: 085701438704 (Anggi)
+Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
+
+Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
+
+Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
+
+Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
+
+Website	: [jogjaedufair.id](https://jogjaedufair.id)

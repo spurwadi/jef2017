@@ -3,12 +3,12 @@
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
 -
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
+  description: "The best time to talk with speakers and attendees"
 -
   id: 600
   title: "ISHOMA"
@@ -40,14 +40,14 @@
   description: "Registrasi peserta lomba cerdas tangkas babak final"
 -
   id: 605
-  title: "Registrasi"
+  title: "Registrasi Peserta"
   place: "Meja registrasi"
   service: false
   description: "Registrasi peserta pelatihan"
 -
   id: 001
   title: "Seminar Meaningful Learning"
-  description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain. Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
+  description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain.<br/>Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
   subtype: workshop
   speakers: [5, 6, 7]
   language: en
@@ -56,7 +56,7 @@
 -
   id: 002
   title: "Pelatihan Pengorganisasian Materi Pembelajaran"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  description: "Pelatihan ini ditujukan untuk guru – guru Sekolah Menengah Kejuruan (SMK) se – D.I.Yogyakarta. Melalui kegiatan pelatihan ini, peserta akan dilatih untuk menyusun dan mengembangkan sendiri perangkat – perangkat yang diperlukan dalam pembelajaran khususnya silabus. Dengan adanya pelatihan ini diharapkan proses pembelajaran menjadi lebih baik dan lebih bersifat kontekstual sesuai dengan karakteristik lingkungan dan budaya di masing – masing sekolah."
   subtype: presentation
   speakers: []
   language: en
@@ -66,20 +66,20 @@
 -
   id: 003
   title: "Opening Ceremony"
-  description: "Opening ceremony ini merupakan awal dari beberapa rangkaian acara dalam Jogja Edufair 2017 yang akan menjadi penanda bahwa kegiatan pameran ini resmi dibuka untuk masyarakat umum. Acara ini akan dihadiri oleh Rektor Universitas Negeri Yogyakarta, Dekan Fakultas Ilmu Pendidikan UNY, Ketua Jurusan Kurikulum dan Teknologi Pendidikan UNY, Kepala Grhatama Pustaka DIY, dosen – dosen Teknologi Pendidikan, serta pejabat lain yang terkait. Acara dilaksanakan di halaman Grhatama Pustaka DIY dimana kegaitan pameran akan berlangsung."
+  description: "Opening ceremony merupakan awal dari beberapa rangkaian acara dalam Jogja Edufair 2017 yang akan menjadi penanda bahwa kegiatan pameran ini resmi dibuka untuk masyarakat umum.<br/>Acara ini akan dihadiri oleh Rektor Universitas Negeri Yogyakarta, Dekan Fakultas Ilmu Pendidikan UNY, Ketua Jurusan Kurikulum dan Teknologi Pendidikan UNY, Kepala Grhatama Pustaka DIY, dosen – dosen Teknologi Pendidikan, serta pejabat lain yang terkait.<br/>Acara dilaksanakan di halaman Grhatama Pustaka DIY dimana kegaitan pameran akan berlangsung."
   subtype: workshop
   speakers: [3]
 -
   id: 004
   title: "Talkshow: Waktunya Masyarakat Belajar"
-  description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara. "
+  description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara."
   subtype: keynote
   speakers: []
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Education Clinic"
-  description: "Konsep klinik pembelajaran ini berupa konseling, dimana klien dapat melakukan tanya jawab maupun refleksi terkait permasalahan pembelajaran. Klinik dapat memberikan pilihan – pilihan solusi untuk mengatasi masalah tersebut. Dalam klinik pembelajaran ini akan ada konselor yang berasal dari mahasiswa Teknologi Pendidikan (konsentrasi Teknologi Kinerja & Pengelolaan Pembelajaran). Sedangkan untuk klien sendiri dapat berasal dari pelajar, guru, maupun masyarakat umum."
+  description: "Konsep klinik pembelajaran ini berupa konseling, dimana klien dapat melakukan tanya jawab maupun refleksi terkait permasalahan pembelajaran. Klinik dapat memberikan pilihan – pilihan solusi untuk mengatasi masalah tersebut.<br/>Dalam klinik pembelajaran ini akan ada konselor yang berasal dari mahasiswa Teknologi Pendidikan (konsentrasi Teknologi Kinerja & Pengelolaan Pembelajaran). Sedangkan untuk klien sendiri dapat berasal dari pelajar, guru, maupun masyarakat umum."
   subtype: keynote
   speakers: []
   language: en
@@ -89,9 +89,10 @@
 -
   id: 006
   title: "Lomba Mewarnai"
-  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
+  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun).<br/>Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya.<br/>Lomba mewarnai dengan tema “*Aku Suka Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
   subtype: workshop
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  moreinfo: "/blog/lomba-mewarnai"
 -
   id: 007
   title: "Pentas Seni dan Sharing Komunitas"

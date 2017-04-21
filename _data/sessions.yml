@@ -75,7 +75,6 @@
   description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara. "
   subtype: keynote
   speakers: []
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -90,8 +89,9 @@
 -
   id: 006
   title: "Lomba Mewarnai"
-  description: "<img src="https://pbs.twimg.com/media/B_24YZLWEAA5Gd8.jpg"/><br/>Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
+  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun). Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “*Ayo Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
   subtype: workshop
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
 -
   id: 007
   title: "Pentas Seni dan Sharing Komunitas"

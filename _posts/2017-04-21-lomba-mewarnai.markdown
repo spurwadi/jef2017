@@ -41,15 +41,15 @@ Biaya pendaftaran Rp 25.000,00 ditransfer ke BRI 695901007618538 a/n Brilia Bell
 
 #### Pelaksanaan
 
-🗓 19 Mei 2017
+ 19 Mei 2017
 
-⏰ 07.30 - selesai
+ 07.30 - selesai
 
-📍 Grhatama Pustaka
+ Grhatama Pustaka
 
 #### For More Info
 
-SMS/WA  : 082219244261 (Aziz)
+SMS/WA  : <a href="tel:082219244261">082219244261</a> (Aziz)
 
 Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 

@@ -5,7 +5,7 @@ date:   2017-04-21 07:00:00
 isStaticPost: false
 ---
 
-<a href=""><img scr="/img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi"/></a>
+<center><a href="/img/pamflet/lomba-fotografi.jpg"><img scr="img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi"/></a></center>
 
 Lomba fotografi diadakan untuk tingkat SMA sederajat hingga mahasiswa se – DIY. Hasil karya dari lomba fotografi akan ditampilkan dalam pameran media Jogja Edufair 2017. Lomba ini akan fokus menyoroti tentang fenomena pendidikan di sekitar.
 
@@ -38,4 +38,5 @@ Setiap peserta mendapatkan sertifikat
 #### Contact Person
 
 Line: __@ftj7214w (Jogja Edufair)
+
 Whatsapp: 085701438704 (Anggi)

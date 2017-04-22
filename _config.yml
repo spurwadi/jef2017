@@ -112,11 +112,11 @@ mapMobileCenterCoordinates: "-7.8001749,110.4065381"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "grh1.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueSmallImage1: "grh2.jpg"
+venueSmallImage2: "grh3.jpg"
 venueSmallImage3: "grh4.jpg"
 venueTitle: "Grhatama Pustaka"
-venueFeatures: ["Indonesian biggest library", "with 6D Cinema", "Located directly in the city center"]
+venueFeatures: ["East Asia biggest library", "with 6D Cinema", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

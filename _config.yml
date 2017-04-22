@@ -16,7 +16,7 @@ description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan 
 baseurl: ""
 url: "https://jogjaedufair.id"
 permalink: "/blog/:title"
-# googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-47274894-3"
 googleAnalyticsSiteUrl: "jogjaedufair.id"
 siteVerification: "NRe3BYmyYyh4x8kYe_SW0zIpW_BvUAVu_edrekKHSDc"
 

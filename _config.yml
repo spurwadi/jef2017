@@ -113,8 +113,8 @@ mapMobileCenterCoordinates: "-7.8001749,110.4065381"
 venueBlockTitle: "Venue"
 venueBigImage: "grh1.jpg"
 venueSmallImage1: "grh2.jpg"
-venueSmallImage2: "grh3.jpg"
-venueSmallImage3: "grh4.jpg"
+venueSmallImage2: "grh4.jpg"
+venueSmallImage3: "grh3.jpg"
 venueTitle: "Grhatama Pustaka"
 venueFeatures: ["East Asia biggest library", "with 6D Cinema", "Located directly in the city center"]
 

@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "hero3.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
 eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/><br/> <b>18 - 20 May 2017</b>"
-typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Edu Clinic", "Have fun :)"'
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Edu Clinic", "on May", "Have fun :)"'
 typeoutFallback: "Exhibitions"
 heroButtons:
  ##- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -70,10 +70,10 @@ heroButtons:
 # About Block
 aboutTitle: "About Jogja EduFair 2017"
 aboutBlock:
- - {title: "EdTech", image: "seminar.jpg", text: "Technology is helping to redefine how we learn, obtain skills, and get credentialed." }
- - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Playground", image: "playground.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "EdTech", image: "seminar.jpg", text: "Educational technology, often referred to as EdTech, is the study and practice of designing effective instruction using technology, media, and learning theory." }
+ - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest education exhibition related event in the country carefully crafted for you by EduTech! Awesome speakers and lots of fun!" }
+ - {title: "Edutainment", image: "playground.jpg", text: "Join us for full-day edutainment, talkshow, workshop, training, playground, edu clinic and lots of fun :)." }
+## - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 
 
 # Statistic Block

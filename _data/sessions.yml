@@ -43,7 +43,13 @@
   title: "Registrasi Peserta"
   place: "Meja registrasi"
   service: false
-  description: "Registrasi peserta pelatihan"
+  description: "Registrasi peserta pelatihan Penyusunan RPP"
+-
+  id: 606
+  title: "Registrasi Peserta"
+  place: "Meja registrasi"
+  service: false
+  description: "Registrasi peserta Talkshow Waktunya Masyarakat Belajar"
 -
   id: 001
   title: "Seminar Meaningful Learning"
@@ -69,6 +75,7 @@
   description: "Opening ceremony merupakan awal dari beberapa rangkaian acara dalam Jogja Edufair 2017 yang akan menjadi penanda bahwa kegiatan pameran ini resmi dibuka untuk masyarakat umum.<br/>Acara ini akan dihadiri oleh Rektor Universitas Negeri Yogyakarta, Dekan Fakultas Ilmu Pendidikan UNY, Ketua Jurusan Kurikulum dan Teknologi Pendidikan UNY, Kepala Grhatama Pustaka DIY, dosen – dosen Teknologi Pendidikan, serta pejabat lain yang terkait.<br/>Acara dilaksanakan di halaman Grhatama Pustaka DIY dimana kegaitan pameran akan berlangsung."
   subtype: workshop
   speakers: [3, 4, 5]
+  video: "//www.youtube.com/embed/hH49LRtlpyg"
 -
   id: 004
   title: "Talkshow: Waktunya Masyarakat Belajar"
@@ -106,4 +113,15 @@
   id: 009
   title: "Playground"
   description: "Bermain merupakan kegiatan yang paling digemari oleh anak – anak terutama di usia aktifnya. Melihat rangkaian acara pemeran yang banyak melibatkan anak – anak, maka dibuatlah playground sebagai tempat bermain saat mereka mengunjungi pameran. Playground akan diisi dengan berbagai permainan yang menyenangkan sehingga pengunjung pameran terutama anak – anak dapat menikmati suasana pameran. Permainan yang terdapat dalam wahana playground dapat membantu anak untuk melatih skill dan motorik mereka."
+  subtype: workshop
+-
+  id: 010
+  title: "Lomba Cerdas Tangkas"
+  description: "Lomba ini merupakan ajang bagi tim perwakilan terpilih tingkat Sekolah Dasar se – D.I.Yogyakarta. Setiap tim terdiri atas 3 orang dari siswa kelas 4 atau 5 SD yang akan bersaing memperebutkan hadiah dan penghargaan. Lomba cerdas tangkas ini dibagi menjadi tiga babak (babak penyisihan, babak perempat final, dan babak final). Pemenang lomba akan diumumkan pada acara Closing Ceremony Jogja Edufair 2017."
+  subtype: workshop
+  moreinfo: "/blog/lomba-cerdas-tangkas"
+-
+  id: 011
+  title: "Closing Ceremony"
+  description: "Closing Ceremony adalah kegiatan penutup dari semua rangkaian kegiatan Edufair. Dalam Closing Ceremony ini akan ada penyerahan hadiah kepada pemenang-pemenang perlombaan. Kegiatan ini akan dimeriahkan oleh penampilan seni dari berbagai kalangan."
   subtype: workshop

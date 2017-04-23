@@ -93,6 +93,12 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
+# Guest Star Block
+guestStarImage: "rockstar-speakers.jpg"
+guestStarCount: 1
+guestStarTitle: "Special Perform"
+guestStarButtonText: "More Info"
+
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Grhatama Pustaka"

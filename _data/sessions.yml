@@ -68,7 +68,7 @@
   title: "Opening Ceremony"
   description: "Opening ceremony merupakan awal dari beberapa rangkaian acara dalam Jogja Edufair 2017 yang akan menjadi penanda bahwa kegiatan pameran ini resmi dibuka untuk masyarakat umum.<br/>Acara ini akan dihadiri oleh Rektor Universitas Negeri Yogyakarta, Dekan Fakultas Ilmu Pendidikan UNY, Ketua Jurusan Kurikulum dan Teknologi Pendidikan UNY, Kepala Grhatama Pustaka DIY, dosen – dosen Teknologi Pendidikan, serta pejabat lain yang terkait.<br/>Acara dilaksanakan di halaman Grhatama Pustaka DIY dimana kegaitan pameran akan berlangsung."
   subtype: workshop
-  speakers: [3]
+  speakers: [3, 4, 5]
 -
   id: 004
   title: "Talkshow: Waktunya Masyarakat Belajar"

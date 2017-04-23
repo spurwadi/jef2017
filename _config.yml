@@ -108,8 +108,8 @@ eventAddressLocality: "Bantul"
 eventAddressLocalityRegion: "Yogyakarta"
 eventPostalCode: "55198"
 eventAddressCountry: "Indonesia"
-eventStartTime: "2017-03-01T10:00"
-eventDoorTime: "09:00"
+eventStartTime: "2017-03-01T08:00"
+eventDoorTime: "08:00"
 eventEndTime: "2017-03-30T20:00"
 eventPlaceCoordinates: "-7.7985579,110.4058781"
 mapCenterCoordinates: "-7.7992579,110.4028281"
@@ -241,8 +241,8 @@ directionDetailsImage: "hero2.jpg"
 directionDetailsTitle: "Get around Jogja"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Jogja. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Yogyakarta.'}
+ - {title: "Hotels", information: 'Yogyakarta has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -311,9 +311,9 @@ hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 # Hackathon About Block
 aboutFootprintTitle: "EdTech in action"
-aboutFootprint: "Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Bertujuan untuk memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan Prodi Teknologi Pendidikan seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul-modul pembelajaran, hingga metode – metode pembelajaran. Kreasi dan inovasi ini diciptakan dan dikembangkan mengikuti perkembangan teknologi yang ada."
+aboutFootprint: "<p>Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Bertujuan untuk memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan Prodi Teknologi Pendidikan seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul-modul pembelajaran, hingga metode – metode pembelajaran. Kreasi dan inovasi ini diciptakan dan dikembangkan mengikuti perkembangan teknologi yang ada.</p>"
 footprintRows:
- - {title: "2013", image: "jee.png", details: "Diselenggarakan di Benteng Vredeburg dengan menghadirkan bintang tamu jazz terkenal Paksi Raras Alit dan juga mengadakan berbagai lomba untuk pelajar dan masyarakat umum. Event ini dihadiri oleh ratusan pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat."}
- - {title: "2014", image: "ftp.png", details: "Diselenggarakan di Museum Pendidikan Indonesia dengan tajuk acara adalah Festival Teknologi Pendidikan “Yo Dolan Yo Sinau”. Kegiatan yang diselenggarakan, adalah pameran media pembelajaran, seminar nasional, lomba mewarnai, lomba fotografi untuk pembelajaran, lomba kreativitas siswa dan pagelaran seni dan budaya. Event ini dihadiri oleh 1040 pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat."}
- - {title: "2015", image: "jogjacation.png", details: "Memiliki 4 jenis kegiatan pameran yaitu Jogjacation yang bertempat di Benteng Vresdeburg, Pameran Teknologi Pendidikan yang bertempat di Museum Pendidikan Indonesia, Roadshow ke beberapa sekolah di DIY, dan Pameran di SMK Negeri 2 Kasihan Bantul. Event ini dihadiri oleh ratusan pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat umum."}
- - {title: "2016", image: "spy.png", details: "Dengan mengambil semangat Semarak Pendidikan Yogyakarta, pameran ini bertemakan My Life My Education merupakan sebuah tema yang mengusung ide besar tentang cara pandang manusia dimana ia memaknai setiap jengkal perjalanan hidupnya sebagai sebuah proses pendidikan tiada akhir. Dengan rangkaian acara workshop, talkshow, dan lomba yang ditujukan untuk semua kalangan. Event ini dihadiri sekitar 2000 pengunjung dari berbagai kalangan."}
+ - {title: "2013", image: "jee.png", details: "<p>Diselenggarakan di Benteng Vredeburg dengan menghadirkan bintang tamu jazz terkenal Paksi Raras Alit dan juga mengadakan berbagai lomba untuk pelajar dan masyarakat umum. Event ini dihadiri oleh ratusan pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat.</p>"}
+ - {title: "2014", image: "ftp.png", details: "<p>Diselenggarakan di Museum Pendidikan Indonesia dengan tajuk acara adalah Festival Teknologi Pendidikan “Yo Dolan Yo Sinau”. Kegiatan yang diselenggarakan, adalah pameran media pembelajaran, seminar nasional, lomba mewarnai, lomba fotografi untuk pembelajaran, lomba kreativitas siswa dan pagelaran seni dan budaya. Event ini dihadiri oleh 1040 pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat.</p>"}
+ - {title: "2015", image: "jogjacation.png", details: "<p>Memiliki 4 jenis kegiatan pameran yaitu Jogjacation yang bertempat di Benteng Vresdeburg, Pameran Teknologi Pendidikan yang bertempat di Museum Pendidikan Indonesia, Roadshow ke beberapa sekolah di DIY, dan Pameran di SMK Negeri 2 Kasihan Bantul. Event ini dihadiri oleh ratusan pengunjung yang terdiri dari mahasiswa, praktisi pendidikan, pelajar, maupun masyarakat umum.</p>"}
+ - {title: "2016", image: "spy.png", details: "<p>Dengan mengambil semangat Semarak Pendidikan Yogyakarta, pameran ini bertemakan My Life My Education merupakan sebuah tema yang mengusung ide besar tentang cara pandang manusia dimana ia memaknai setiap jengkal perjalanan hidupnya sebagai sebuah proses pendidikan tiada akhir. Dengan rangkaian acara workshop, talkshow, dan lomba yang ditujukan untuk semua kalangan. Event ini dihadiri sekitar 2000 pengunjung dari berbagai kalangan.</p>"}

@@ -40,6 +40,10 @@
        startTime: "All Day",
        sessionIds: [008]
     }
+    - {
+       startTime: "All Day",
+       sessionIds: [009]
+    }
 - 
   date: "2017-05-19"
   dateReadable: "Jum'at, 19 Mei 2017"
@@ -73,10 +77,14 @@
     	endTime: "16:00",
     	sessionIds: [005, 404, 404]
     }
+
     - {
-    	startTime: "13:00",
-    	endTime: "15:00",
-    	sessionIds: [002, 404, 404]
+       startTime: "All Day",
+       sessionIds: [008]
+    }
+    - {
+       startTime: "All Day",
+       sessionIds: [009]
     }
 - 
   date: "2014-10-20"
@@ -93,20 +101,48 @@
     - {
     	startTime: "09:00",
     	endTime: "11:30",
-    	sessionIds: [002]
+    	sessionIds: [010, 404]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "10:00",
     	endTime: "12:00",
-    	sessionIds: [002, 003]
+    	sessionIds: [005, 007]
     }
     - {
-      startTime: "14:00",
-      endTime: "16:00",
-      sessionIds: [003]
+      startTime: "11:30",
+      endTime: "12:30",
+      sessionIds: [600]
     }
     - {
-    	startTime: "14:00",
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [606]
+    }
+    - {
+    	startTime: "13:00",
     	endTime: "15:00",
-    	sessionIds: [503]
+    	sessionIds: [004,404]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [404, 007]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "17:00",
+    	sessionIds: [005, 404]
+    }
+    - {
+    	startTime: "19:30",
+    	endTime: "21:30",
+    	sessionIds: [404, 011]
+    }
+    - {
+       startTime: "All Day",
+       sessionIds: [008]
+    }
+    - {
+       startTime: "All Day",
+       sessionIds: [009]
     }

@@ -2,72 +2,97 @@
   id: 0
   name: "Tera"
   surname: "Meinta Dwi Kartika"
-  title: "Sponsors and Speakers Manager"
+  title: "Ketua Panitia JEF2017"
   thumbnailUrl: anon-fem.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "JEF", title: "Panitia Inti"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "/"}
+    - {name: "twitter", link: "https://twitter.com/jogjaedufair"}
+    - {name: "site", link: "https://jogjaedufair.id/"}
 - 
   id: 1
   name: "Risqi"
   surname: "Nuruz Syifa"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  title: "Wakil Ketua Panitia JEF2017"
+  thumbnailUrl: anon-fem.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "JEF", title: "Panitia Inti"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "/"}
+    - {name: "twitter", link: "https://twitter.com/jogjaedufair"}
+    - {name: "site", link: "https://jogjaedufair.id/"}
 - 
   id: 2
   name: "Fiska"
   surname: "Nurul Hidayah"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  title: "Sekretaris"
+  thumbnailUrl: anon-fem.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {abbr: "JEF", title: "Panitia Inti"}
 - 
   id: 3
   name: "Karina"
   surname: "Adinda Ariatna"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  title: "Bendahara"
+  thumbnailUrl: anon-fem.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {abbr: "JEF", title: "Panitia Inti"}
 - 
   id: 4
   name: "Amanda"
   surname: "Risky Amalia"
   title: "Koordinator Sie. Acara"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: anon-fem.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  ribbon:
+    - {abbr: "Koor", title: "Koordinator"}
+- 
+  id: 5
+  name: "Anggoro"
+  surname: "Tri Waluyo"
+  title: "Koordinator Sie. Humas"
+  thumbnailUrl: anon-male.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Koor", title: "Koordinator"}
+- 
+  id: 6
+  name: "Yunia"
+  surname: "Chandra Siswandari"
+  title: "Koordinator Sie. Sponsorship"
+  thumbnailUrl: anon-fem.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Koor", title: "Koordinator"}
 - 
   id: 7
-  name: "Anggoro"
-  surname: "Tri Waluyo Joko Susilo"
-  title: "Koordinator Sie. Humas"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Fikry"
+  surname: "Ahmad Sultoni"
+  title: "Koordinator Sie. Perlengkapan"
+  thumbnailUrl: anon-male.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  ribbon: 
+    - {abbr: "Koor", title: "Koordinator"}
+- 
+  id: 8
+  name: "Iwan"
+  surname: "Sanjaya"
+  title: "Koordinator Sie. Publikasi, Dekorasi, Dokumentasi"
+  thumbnailUrl: anon-male.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Koor", title: "Koordinator"}
+- 
+  id: 9
+  name: "Azkia"
+  surname: "Desi Winarningtyas"
+  title: "Koordinator Sie. Konsumsi"
+  thumbnailUrl: anon-fem.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "Koor", title: "Koordinator"}

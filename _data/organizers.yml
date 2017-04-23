@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "JEF 2017", description: "Kurikulum dan Teknologi Pendidikan Universitas Negeri Yogyakarta", link: "http://tp.fip.uny.ac.id", imageUrl: "jef2017.png"}
+    - {name: "JEF 2017", description: "Jogja EduFair 2017", link: "https://jogjaedufair.id", imageUrl: "jef2017.png"}
 - 
   group: "Co-organizers"
   elements: 

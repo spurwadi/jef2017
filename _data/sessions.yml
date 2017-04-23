@@ -97,3 +97,13 @@
   title: "Pentas Seni dan Sharing Komunitas"
   description: "Pentas seni ini ditujukan untuk berbagai komunitas di D.I.Yogyakarta seperti komunitas seni, musik, maupun hobi. Acara ini akan menampilkan kreasi seni dari berbagai komunitas misalnya pertunjukan musik, tari, drama, hingga sharing tentang komunitas itu sendiri."
   subtype: workshop
+-
+  id: 008
+  title: "EdTech Exhibition"
+  description: "Dalam acara ini akan dipamerkan berbagai macam jenis media pembelajaran yang terdiri dari multimedia interaktif, alat permainan edukatif (APE), video, modul, poster, diorama, alat peraga dan lain sebagainya. Pemeran media pembelajaran ini berlangsung selama 3 (tiga) hari dan diikuti tidak hanya dari jurusan Teknologi Pendidikan namun oleh berbagai jurusan lain yang ada di Universitas Negeri Yogyakarta"
+  subtype: workshop
+-
+  id: 009
+  title: "Playground"
+  description: "Bermain merupakan kegiatan yang paling digemari oleh anak – anak terutama di usia aktifnya. Melihat rangkaian acara pemeran yang banyak melibatkan anak – anak, maka dibuatlah playground sebagai tempat bermain saat mereka mengunjungi pameran. Playground akan diisi dengan berbagai permainan yang menyenangkan sehingga pengunjung pameran terutama anak – anak dapat menikmati suasana pameran. Permainan yang terdapat dalam wahana playground dapat membantu anak untuk melatih skill dan motorik mereka."
+  subtype: workshop

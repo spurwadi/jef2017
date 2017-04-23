@@ -36,6 +36,10 @@
        endTime: "16:00",
        sessionIds: [005]
     }
+    - {
+       startTime: "All Day",
+       sessionIds: [008]
+    }
 - 
   date: "2017-05-19"
   dateReadable: "Jum'at, 19 Mei 2017"

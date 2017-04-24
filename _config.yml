@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Jogja EduFair 2017"
 email: "jogjaedufair@gmail.com"
-description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta"
+description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Pameran yang menampilkan hasil produk dan kreasi mahasiswa Kurikulum dan Teknologi Pendidikan."
 baseurl: ""
 url: "https://jogjaedufair.id"
 permalink: "/blog/:title"
@@ -22,14 +22,14 @@ siteVerification: "NRe3BYmyYyh4x8kYe_SW0zIpW_BvUAVu_edrekKHSDc"
 
 # Organizer Info
 organizerName: "Kurikulum dan Teknologi Pendidikan Universitas Negeri Yogyakarta"
-organizerAlternateName: "Educational Technology Yogyakarta State University"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "Educational Technology (EdTech) Yogyakarta State University"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about EdTech with passion."
 organizerEmail: "jogjaedufair@gmail.com"
 organizerLogo: "/img/seo/Logo Transp.png"
-organizerLink: "http://tp.fip.uny.ac.id/"
+organizerLink: "/team/"
 
 # Head
-metaKeywords: "kurikulum dan teknologi pendidikan, teknologi pendidikan, edtech, educational technology, yogyakarta, UNY, universitas negeri yogyakarta, JEF, edufair"
+metaKeywords: "kurikulum dan teknologi pendidikan, teknologi pendidikan, edtech, educational technology, yogyakarta, UNY, universitas negeri yogyakarta, JEF, edufair, media, edutainment"
 twitterAccount: "@JogjaEduFair"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -59,20 +59,20 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero3.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
-eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/><br/> <b>18 - 20 May 2017</b>"
+eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/><br/><b>18 - 20 May 2017</b>"
 typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Edu Clinic", "on May", "Have fun :)"'
 typeoutFallback: "Exhibitions"
 heroButtons:
  ##- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#partners", text: "Become a sponsor"}
- ##- {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/schedule/", text: "Events Schedule"}
 
 # About Block
 aboutTitle: "About Jogja EduFair 2017"
 aboutBlock:
  - {title: "EdTech", image: "seminar.jpg", text: "Educational technology, often referred to as EdTech, is the study and practice of designing effective instruction using technology, media, and learning theory." }
- - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest education exhibition related event in the country carefully crafted for you by EduTech! Awesome speakers and lots of fun!" }
- - {title: "Edutainment", image: "playground.jpg", text: "Join us for full-day edutainment, talkshow, workshop, training, playground, edu clinic and lots of fun :)." }
+ - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest education exhibition related event in the country carefully crafted for you by EduTech!" }
+ - {title: "Edutainment", image: "playground.jpg", text: "Join us for full-day edutainment, talkshow, workshop, training, playground, edu clinic, and lots of fun :)." }
 ## - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 
 
@@ -80,9 +80,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "2000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "120", specialCharacter: "+", info: "media", detail: "exhibitions"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "artists", detail: "and local communities"}
+ - {count: "120", specialCharacter: "+", info: "education media & technology", detail: "exhibitions"}
+ - {count: "10", specialCharacter: "", info: "artists", detail: "and local communities"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -91,7 +91,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "See all"
 
 # Guest Star Block
 guestStarImage: "finest-tree.jpg"
@@ -196,20 +196,24 @@ footerBlocks:
   links:
    - {link: "http://uny.ac.id", text: "Universitas Negeri Yogyakarta"}
    - {link: "http://diesnatalis.uny.ac.id", text: "Dies Natalis UNY"}
-   - {link: "https://http://kurikulum-teknologi-pendidikan.fip.uny.ac.id/", text: "Kurikulum dan Teknologi Pendidikan"}
+   - {link: "http://tp.fip.uny.ac.id/", text: "Kurikulum dan Teknologi Pendidikan"}
+   - {link: "https://facebook.com/JogjaEduFair", text: "Facebook Jogja EduFair"}
+   - {link: "https://twitter.com/JogjaEduFair", text: "Twitter @JogjaEduFair"}
+   - {link: "https://instagram.com/JogjaEduFair", text: "Instagram @JogjaEduFair"}
+   - {link: "http://line.me/ti/p/~@ftj7214w", text: "Line @ftj7214w"}
  -
   title: "Contacts"
   links:
    - {link: "https://www.google.com/maps?z=16&q=laboratorium+jurusan+kurikulum+dan+teknologi+pendidikan,+gedung+pusat+fip+lantai+2,+uny,+jalan+colombo+no+1+ct,+depok,+sleman", text: "Laboratorium Jurusan Kurikulum dan Teknologi Pendidikan, Gedung pusat FIP lantai 2, UNY, Jalan Colombo no 1 CT, Depok, Sleman  
 "}
-   - {link: "tel:+6289656571751", text: "+62 896-5657-1751 (Tera)"}
+   - {link: "tel:+6289656571751", text: "0896-5657-1751 (Tera)"}
    - {link: "mailto:jogjaedufair@gmail.com", text: "jogjaedufair@gmail.com"}
  -
   title: "Download"
   links:
    # - {permalink: "/cod/", text: "Code of Conduct"}
    - {permalink: "/", text: "Pamflet"}
-   - {permalink: "/assets/denah.jpg", text: "Denah Lokasi"}
+   - {permalink: "/assets/denah.jpg", text: "Denah Pameran"}
 
 # Blog
 blogTitle: "Latest news"

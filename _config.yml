@@ -127,7 +127,7 @@ venueFeatures: ["East Asia biggest library", "with 6D Cinema", "Located directly
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "JogjaEduFair"
+twitterHashTag: "JogjaEduFair2017"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?user=jogjaedufair&c=10&cache_interval=8000"
 
 # Partners Block

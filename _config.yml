@@ -81,8 +81,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "2000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "120", specialCharacter: "+", info: "education media & technology", detail: "exhibitions"}
- - {count: "10", specialCharacter: "", info: "artists", detail: "and local communities"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "10", specialCharacter: "+", info: "artists", detail: "and local communities"}
+ - {count: "5", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

@@ -11,7 +11,7 @@ Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK.
 
 Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “**Aku Suka Belajar**” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan.
 
-Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara [Closing Ceremony Jogja Edufair 2017](/schedule/).
+Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara [Closing Ceremony Jogja Edufair 2017](/schedule/#session-9).
 
 #### Pendaftaran
 

@@ -2,9 +2,9 @@
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+	<div class="theme-video embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/OWYrmRsWRuQ"></iframe></div>
             <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
-		<div class="theme-video embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/OWYrmRsWRuQ"></iframe></div>
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}

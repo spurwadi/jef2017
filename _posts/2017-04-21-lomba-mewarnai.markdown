@@ -60,3 +60,5 @@ Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
 Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
 Website	: [jogjaedufair.id](https://jogjaedufair.id)
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/lomba-mewarnai.jpg" style="display:none">

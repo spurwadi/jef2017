@@ -185,21 +185,16 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://instagram.com/jogjaedufair", icon: "instagram"}
- - {link: "https://twitter.com/intent/user?screen_name=JogjaEduFair", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Social Media"
   links:
-   - {link: "http://uny.ac.id", text: "Universitas Negeri Yogyakarta"}
-   - {link: "http://diesnatalis.uny.ac.id", text: "Dies Natalis UNY"}
-   - {link: "http://tp.fip.uny.ac.id/", text: "Kurikulum dan Teknologi Pendidikan"}
    - {link: "https://facebook.com/JogjaEduFair", text: "Facebook Jogja EduFair"}
    - {link: "https://twitter.com/JogjaEduFair", text: "Twitter @JogjaEduFair"}
    - {link: "https://instagram.com/JogjaEduFair", text: "Instagram @JogjaEduFair"}
    - {link: "http://line.me/ti/p/~@ftj7214w", text: "Line @ftj7214w"}
+   - {link: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", text: "Youtube JEF2017"}
  -
   title: "Contacts"
   links:

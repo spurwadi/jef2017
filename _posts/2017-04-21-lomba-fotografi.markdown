@@ -5,7 +5,7 @@ date:   2017-04-21 07:00:00
 isStaticPost: false
 ---
 
-<center><a href="/img/pamflet/lomba-fotografi.jpg" target="_blank"><img src="/img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi"/></a></center>
+<center><a href="/img/pamflet/lomba-fotografi.jpg" target="_blank"><img src="/img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi" width="90%" /></a></center>
 
 Lomba fotografi diadakan untuk tingkat SMA sederajat hingga mahasiswa se – DIY. Hasil karya dari lomba fotografi akan ditampilkan dalam pameran media Jogja Edufair 2017. Lomba ini akan fokus menyoroti tentang fenomena pendidikan di sekitar.
 

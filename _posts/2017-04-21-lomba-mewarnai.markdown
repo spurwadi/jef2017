@@ -7,7 +7,7 @@ isStaticPost: false
 
 <center><a href="/img/pamfet/lomba-mewarnai.jpg" target="_blank"><img src="/img/pamflet/lomba-mewarnai.jpg" alt="Pamflet Lomba Mewarnai"></a></center>
 
-Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun).
+Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK.
 
 Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “**Aku Suka Belajar**” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan.
 
@@ -17,7 +17,7 @@ Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara [Cl
 
 Pendaftaran dibuka tanggal 18 April - 15 Mei 2017.
 
-Format pendaftaran __LMEDUFAIR2017_NAMA_ASAL SEKOLAH_TK A/TK B/SD_USIA__ kirim ke 082219244261 (Aziz)
+Format pendaftaran __LMEDUFAIR2017_NAMA_ASAL SEKOLAH_TK A/TK B_USIA__ kirim ke 082219244261 (Aziz)
 
 Formulir pendaftaran dapat diunduh [**di sini**](https://goo.gl/O6Hw6F)
 

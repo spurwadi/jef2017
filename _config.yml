@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Jogja EduFair 2017"
 email: "jogjaedufair@gmail.com"
-description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Pameran yang menampilkan hasil produk dan kreasi mahasiswa Kurikulum dan Teknologi Pendidikan."
+description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Pameran ini menampilkan hasil produk dan kreasi mahasiswa Kurikulum dan Teknologi Pendidikan."
 baseurl: ""
 url: "https://jogjaedufair.id"
 permalink: "/blog/:title"
@@ -188,8 +188,8 @@ socialLinks:
  - {permalink: "https://instagram.com/jogjaedufair", icon: "instagram", title: "Instagram @JogjaEduFair", color: "#125688"}
  - {permalink: "https://facebook.com/jogjaedufair", icon: "facebook-square", title: "Facebook Jogja EduFair", color: "#3b5998"}
  - {permalink: "https://twitter.com/jogjaedufair", icon: "twitter", title: "Twitter @JogjaEduFair", color: "#55acee"}
- - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w", color: "#7bb32e"}
- - {permalink: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
+ - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w", color: "#00b900"}
+ - {permalink: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube-play", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
  - {permalink: "/feed.xml", icon: "rss", title: "RSS Feed", color: "#ff6600"}
 footerBlocks:
  -

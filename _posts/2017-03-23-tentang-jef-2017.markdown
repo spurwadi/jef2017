@@ -22,7 +22,7 @@ Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama da
 * **Lokasi**: Grhatama Pustaka terletak di pusat kota Yogyakarta sebagai perpustakaan terbesar di Asia Tenggara
 * **Artis dan Komunitas**: menampilkan artis dan komunitas lokal dalam hiburan dan edutainment
 
-### Tujuan Kegiatan
+##### Tujuan Kegiatan
 
 1. Sebagai wadah dalam sosialisasi dan publikasi Program Studi Teknologi Pendidikan di dunia pendidikan kepada masyarakat umum.
 2. Sebagai wadah untuk mengapresiasikan gagasan kreatif dan inovatif melalui media pembelajaran bagi mahasiswa Teknologi Pendidikan yang merupakan panitia Jogja Edufair 2017.
@@ -33,8 +33,6 @@ Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama da
 7. Meningkatkan kesadaran akan pentingnya pendidikan sepanjang hayat.
 
 <hr/>
-
-### Temukan kami
 
 <i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 

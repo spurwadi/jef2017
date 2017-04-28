@@ -186,20 +186,19 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {permalink: "https://instagram.com/jogjaedufair", icon: "instagram", title: "Instagram @JogjaEduFair", color: "#125688"}
- - {permalink: "https://facebook.com/jogjaedufair", icon: "facebook-official", title: "Facebook Jogja EduFair", color: "#3b5998"}
+ - {permalink: "https://facebook.com/jogjaedufair", icon: "facebook-square", title: "Facebook Jogja EduFair", color: "#3b5998"}
  - {permalink: "https://twitter.com/jogjaedufair", icon: "twitter", title: "Twitter @JogjaEduFair", color: "#55acee"}
- - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w", color: "#3b5998"}
+ - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w", color: "#7bb32e"}
  - {permalink: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
  - {permalink: "/feed.xml", icon: "rss", title: "RSS Feed", color: "#ff6600"}
 footerBlocks:
  -
-  title: "Social Media"
+  title: "Links"
   links:
-   - {link: "https://facebook.com/JogjaEduFair", text: "Facebook Jogja EduFair"}
-   - {link: "https://twitter.com/JogjaEduFair", text: "Twitter @JogjaEduFair"}
-   - {link: "https://instagram.com/JogjaEduFair", text: "Instagram @JogjaEduFair"}
-   - {link: "http://line.me/ti/p/~@ftj7214w", text: "Line @ftj7214w"}
-   - {link: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", text: "Youtube JEF2017"}
+   - {link: "http://diesnatalis.uny.ac.id/", text: "Dies Natalis UNY"}
+   - {link: "https://www.uny.ac.id/", text: "Universitas Negeri Yogyakarta"}
+   - {link: "http://tp.fip.uny.ac.id/", text: "Kurikulum dan Teknologi Pendidikan"}
+   - {link: "http://bpad.jogjaprov.go.id/", text: "BPAD Yogyakarta"}
  -
   title: "Contacts"
   links:

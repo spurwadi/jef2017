@@ -45,16 +45,16 @@ Lomba mewarnai akan dilaksanakan pada 19 Mei 2017 mulai pukul 07.30, bertempat d
 
 #### For More Info
 
-SMS/WA  : <a href="tel:082219244261">082219244261</a> (Aziz)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA  : <a href="tel:082219244261">082219244261</a> (Aziz)
 
-Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
+<i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 
-Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
+<i class="fa fa-twitter fa-lg"></i> Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
 
-Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
+<i class="fa fa-instagram fa-lg"></i> Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
 
-Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
+<i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
-Website	: [jogjaedufair.id](https://jogjaedufair.id)
+<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/lomba-mewarnai.jpg" style="display:none">

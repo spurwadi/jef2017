@@ -20,6 +20,13 @@ Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama da
 * **Lokasi**: Grhatama Pustaka terletak di pusat kota Yogyakarta sebagai perpustakaan terbesar di Asia Tenggara
 * **Artis dan Komunitas**: menampilkan artis dan komunitas lokal dalam hiburan dan edutainment
 
-Temukan kami di [Facebook Jogja EduFair](https://facebook.com/jogjaedufair)
 
-Follow on [Twitter @JogjaEduFair](https://twitter.com/jogjaedufair)
+<i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
+
+<i class="fa fa-twitter fa-lg"></i> Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
+
+<i class="fa fa-instagram fa-lg"></i> Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
+
+<i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
+
+<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)

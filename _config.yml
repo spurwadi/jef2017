@@ -185,7 +185,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {permalink: "/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "fa-instagram", title: "Instagram"}
+ - {permalink: "/feed.xml", icon: "rss", title: "RSS Feed"}
 footerBlocks:
  -
   title: "Social Media"

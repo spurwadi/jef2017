@@ -24,11 +24,7 @@
 			<ul class="social-links">
 				{% for social in site.socialLinks %}
 				<li>
-					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
-						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
-						</svg>
-					</a>
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank"><i class="{{ social.icon }}" aria-hidden="true" title="{{ social.title }}"></i></a>
 				</li>
 				{% endfor %}
 			</ul>
@@ -38,7 +34,7 @@
 		<!-- Please don't delete this line-->
 		<div class="col-md-6">
 			<p class="copyright">
-				&copy; 2017 Based on Project Zeppelin &middot; Developed and redesign with <i class="fa fa-heart fa-pulse" aria-hidden="true"></i> by <a href="https://sigit.purwadi.web.id" target="_blank">@S_Purwadi</a>
+				&copy; 2017 Based on Project Zeppelin &middot; Developed and redesign with <i class="fa fa-heart" aria-hidden="true" style="color:#FF0000"></i> by <a href="https://sigit.purwadi.web.id" target="_blank">@S_Purwadi</a>
 			</p>
 		</div>
 	</div>

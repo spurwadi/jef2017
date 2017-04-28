@@ -56,7 +56,6 @@
   description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain.<br/>Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
   subtype: workshop
   speakers: [5, 6, 7]
-  language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/sjDVaxkzZ00"
 -
@@ -65,10 +64,6 @@
   description: "Pelatihan ini ditujukan untuk guru – guru Sekolah Menengah Kejuruan (SMK) se – D.I.Yogyakarta. Melalui kegiatan pelatihan ini, peserta akan dilatih untuk menyusun dan mengembangkan sendiri perangkat – perangkat yang diperlukan dalam pembelajaran khususnya silabus. Dengan adanya pelatihan ini diharapkan proses pembelajaran menjadi lebih baik dan lebih bersifat kontekstual sesuai dengan karakteristik lingkungan dan budaya di masing – masing sekolah."
   subtype: presentation
   speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Opening Ceremony"
@@ -82,21 +77,16 @@
   description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara."
   subtype: keynote
   speakers: []
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Education Clinic"
   description: "Konsep klinik pembelajaran ini berupa konseling, dimana klien dapat melakukan tanya jawab maupun refleksi terkait permasalahan pembelajaran. Klinik dapat memberikan pilihan – pilihan solusi untuk mengatasi masalah tersebut.<br/>Dalam klinik pembelajaran ini akan ada konselor yang berasal dari mahasiswa Teknologi Pendidikan (konsentrasi Teknologi Kinerja & Pengelolaan Pembelajaran). Sedangkan untuk klien sendiri dapat berasal dari pelajar, guru, maupun masyarakat umum."
   subtype: keynote
   speakers: []
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
   title: "Lomba Mewarnai"
-  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK sampai SD Kelas 1 (usia 5 – 7 tahun).<br/>Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya.<br/>Lomba mewarnai dengan tema “*Aku Suka Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
+  description: "Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK (usia 5 – 7 tahun).<br/>Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya.<br/>Lomba mewarnai dengan tema “*Aku Suka Belajar*” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan. <br/>Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara Closing Ceremony Jogja Edufair 2017."
   subtype: workshop
   moreinfo: "/blog/lomba-mewarnai"
 -
@@ -117,11 +107,11 @@
 -
   id: 010
   title: "Lomba Cerdas Tangkas"
-  description: "Lomba ini merupakan ajang bagi tim perwakilan terpilih tingkat Sekolah Dasar se – D.I.Yogyakarta. Setiap tim terdiri atas 3 orang dari siswa kelas 4 atau 5 SD yang akan bersaing memperebutkan hadiah dan penghargaan. Lomba cerdas tangkas ini dibagi menjadi tiga babak (babak penyisihan, babak perempat final, dan babak final). Pemenang lomba akan diumumkan pada acara Closing Ceremony Jogja Edufair 2017."
+  description: "Lomba ini merupakan ajang bagi tim perwakilan terpilih tingkat Sekolah Dasar se – D.I.Yogyakarta. <br/>Setiap tim terdiri atas 3 orang dari siswa kelas 5 tingkat Sekolah Dasar dan sederajat yang akan bersaing memperebutkan hadiah dan penghargaan. Lomba cerdas tangkas ini dibagi menjadi tiga babak (babak penyisihan, babak perempat final, dan babak final). <br/><br/>Pemenang lomba akan diumumkan pada acara <a href="/schedule/#session-9">Closing Ceremony Jogja Edufair 2017</a>."
   subtype: workshop
   moreinfo: "/blog/lomba-cerdas-tangkas"
 -
   id: 011
   title: "Closing Ceremony"
-  description: "Closing Ceremony adalah kegiatan penutup dari semua rangkaian kegiatan Edufair. Dalam Closing Ceremony ini akan ada penyerahan hadiah kepada pemenang-pemenang perlombaan. Kegiatan ini akan dimeriahkan oleh penampilan seni dari berbagai kalangan."
+  description: "Closing Ceremony adalah kegiatan penutup dari semua rangkaian kegiatan Edufair.<br/>Dalam Closing Ceremony ini akan ada penyerahan hadiah kepada pemenang-pemenang perlombaan. Kegiatan ini juga akan dimeriahkan oleh penampilan seni dari berbagai kalangan."
   subtype: workshop

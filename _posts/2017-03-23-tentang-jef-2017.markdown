@@ -4,15 +4,17 @@ title:  "Tentang Jogja EduFair 2017"
 date:   2017-03-23 08:00:00
 isStaticPost: false
 ---
-Jurusan Kurikulum Teknologi Pendidikan berdiri sejak tahun 1983 (sebelumnya jurusan Didaktik dan Kurikulum) merupakan salah satu jurusan di Fakultas Ilmu Pendidikan Universitas Negeri Yogyakarta. Jurusan Kurikulum dan Teknologi Pendidikan memiliki satu program studi yaitu Teknologi Pendidikan. Visi prodi Teknologi Pendidikan yaitu menjadi pusat pengembang dan pembaru Teknologi Pendidikan yang mandiri dan berwawasan nasionalisme religius pada 2025. Melengkapi peran dosen dan tenaga kependidikan, mahasiswa Teknologi Pendidikan juga berperan aktif dalam menghidupkan suasana akademik yang digerakkan oleh Himpunan Mahasiswa Teknologi Pendidikan, Fakultas Ilmu Pendidikan, Universitas Negeri Yogyakarta. 
+Jurusan Kurikulum Teknologi Pendidikan berdiri sejak tahun 1983 (sebelumnya jurusan Didaktik dan Kurikulum) merupakan salah satu jurusan di Fakultas Ilmu Pendidikan Universitas Negeri Yogyakarta. Jurusan Kurikulum dan Teknologi Pendidikan memiliki satu program studi yaitu Teknologi Pendidikan.
 
-Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Tujuannya adalah untuk memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan Prodi Teknologi Pendidikan seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul-modul pembelajaran, hingga metode – metode pembelajaran. Kreasi dan inovasi ini diciptakan dan dikembangkan mengikuti perkembangan teknologi yang ada.
+Visi prodi Teknologi Pendidikan adalah menjadi pusat pengembang dan pembaru Teknologi Pendidikan yang mandiri dan berwawasan nasionalisme religius pada 2025. Melengkapi peran dosen dan tenaga kependidikan, mahasiswa Teknologi Pendidikan juga berperan aktif dalam menghidupkan suasana akademik yang digerakkan oleh Himpunan Mahasiswa Teknologi Pendidikan, Fakultas Ilmu Pendidikan, Universitas Negeri Yogyakarta. 
+
+Pameran Teknologi Pendidikan merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta (<a href="/footprint/" target="_blank">lihat jejak kaki</a>). Tujuannya adalah untuk memperkenalkan hasil kreasi dan inovasi dalam bidang pendidikan yang menjadi wilayah garapan Prodi Teknologi Pendidikan seperti multimedia pembelajaran, audio video pembelajaran, alat permainan edukatif, modul-modul pembelajaran, hingga metode – metode pembelajaran. Kreasi dan inovasi ini diciptakan dan dikembangkan mengikuti perkembangan teknologi yang ada.
 
 Di era yang semakin canggih ini, kami menyadari begitu cepatnya perkembangan teknologi di luar sana yang harus senantiasa diimbangi dengan kemampuan Sumber Daya Manusia untuk mengolahnya. Sebagai contoh adanya perkembangan teknologi dari teknologi cetak, audiovisual, berbasis komputer, hingga teknologi terpadu. Semua jenis perkembangan ini perlu juga diterapkan dalam dunia pendidikan terkait dengan memfasilitasi belajar dan meningkatkan kinerja sebagai konsep dari Teknologi Pendidikan itu sendiri.
 
 Dengan berpijak pada tujuan tersebut, tahun ini kami mencoba menampilkan karya-karya terbaik kami baik berupa media-media pembelajaran inovatif yang juga berdampak pada metode-metode pembelajaran yang semakin humanis dengan disertai rangkaian acara lain seperti diskusi, workshop, dan lomba yang kami tujukan untuk semua kalangan. Karya-karya ini ditujukan untuk memberikan gambaran dari perkembangan teknologi dibidang pendidikan. Sebab kami menyadari bahwa perkembangan dunia pendidikan dari masa ke masa mengalami perubahan dan terus memperbaruhi sesuai dengan tuntutan zaman. Untuk itu kami mengusung tema Parameter Pendidikan Indonesia. 
 
-Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama dari berbagai pihak, untuk bersama-sama membuat sebuah usaha guna menyebarluaskan pemahaman tentang perkembangan dunia pendidikan, yang akan dikemas dalam acara yang telah kami susun konsepnya.
+Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama dari berbagai pihak, untuk bersama-sama membuat sebuah usaha guna menyebarluaskan pemahaman tentang perkembangan dunia pendidikan, yang akan dikemas dalam acara yang telah kami susun konsepnya. (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
 
 * **Pengunjung**: diperkirakan lebih dari 2000 pengunjung akan hadir dalam Jogja EduFair 2017
 * **Pameran media**: lebih dari 120 media pembelajaran akan dipamerkan 
@@ -20,6 +22,19 @@ Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama da
 * **Lokasi**: Grhatama Pustaka terletak di pusat kota Yogyakarta sebagai perpustakaan terbesar di Asia Tenggara
 * **Artis dan Komunitas**: menampilkan artis dan komunitas lokal dalam hiburan dan edutainment
 
+### Tujuan Kegiatan
+
+1. Sebagai wadah dalam sosialisasi dan publikasi Program Studi Teknologi Pendidikan di dunia pendidikan kepada masyarakat umum.
+2. Sebagai wadah untuk mengapresiasikan gagasan kreatif dan inovatif melalui media pembelajaran bagi mahasiswa Teknologi Pendidikan yang merupakan panitia Jogja Edufair 2017.
+3. Meningkatkan pemahaman praktisi pendidikan tentang arah sebuah kurikulum.
+4. Meningkatkan kesadaran masyarakat tentang kesadaran belajar.
+5. Meningkatkan kreativitas siswa melalui kegiatan lomba – lomba yang diadakan.
+6. Memberikan gambaran umum seputar peran dari teknologi pendidikan dalam pendidikan sepanjang hayat.
+7. Meningkatkan kesadaran akan pentingnya pendidikan sepanjang hayat.
+
+<hr/>
+
+### Temukan kami
 
 <i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 

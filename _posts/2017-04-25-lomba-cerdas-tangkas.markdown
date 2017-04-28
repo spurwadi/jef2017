@@ -28,16 +28,16 @@ Lomba akan dilaksanakan pada tanggal 20 Mei 2017 pukul 07.30 - 12.00 WIB, bertem
 
 #### Contact Person
 
-SMS/WA: <a href="tel:085721519226">085721519226</a> (Anita)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085721519226">085721519226</a> (Anita)
 
-Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
+<i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 
-Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
+<i class="fa fa-twitter fa-lg"></i> Twitter : [@JogjaEduFair](https://twitter.com/JogjaEduFair)
 
-Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
+<i class="fa fa-instagram fa-lg"></i> Instagram	: [@JogjaEduFair](https://instagram.com/JogjaEduFair)
 
-Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
+<i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
-Website	: [jogjaedufair.id](https://jogjaedufair.id)
+<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/lomba-cerdas-tangkas.JPG" style="display:none">

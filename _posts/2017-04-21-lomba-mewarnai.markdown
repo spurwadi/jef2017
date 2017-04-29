@@ -5,7 +5,7 @@ date:   2017-04-21 08:00:00
 isStaticPost: false
 ---
 
-<center><a href="/img/pamfet/lomba-mewarnai.png" target="_blank"><img src="/img/pamflet/lomba-mewarnai.png" alt="Pamflet Lomba Mewarnai" width="90%"></a></center>
+<center><a href="/img/pamflet/lomba-mewarnai.png" target="_blank"><img src="/img/pamflet/lomba-mewarnai.png" alt="Pamflet Lomba Mewarnai" width="90%"></a></center>
 
 Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK.
 

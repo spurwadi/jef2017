@@ -1,5 +1,9 @@
 ### General ###
 *.lock
+*.apk
+*.exe
+*.bat
+#*
 
 ### Jekyll ###
 _site/
@@ -11,3 +15,5 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+automation/
+tools/

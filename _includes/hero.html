@@ -1,48 +1,7 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section">
+<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
-    <script>
-    var places = ['casario', 'carne', 'ponte-boavista', 'malakoff', 'torre-cristal'];
-var index = 1;
-var loop = setInterval(function(){
-    $(".place").removeClass("current-place");
-    $("."+places[index++]).addClass("current-place");
-    index = index == places.length ? 0 : index;
-}, 7000);
-</script>
-    <div class="places">
-
-            <div class="place casario">
-              <div class="imgs">
-                <img src="https://2015.devfestne.com.br/img/svg/03.svg" title="Rua da Aurora" alt="Rua da Aurora" class="main-img">
-              </div>
-            </div>
-
-      <div class="place carne">
-        <div class="imgs">
-          <img src="https://2015.devfestne.com.br/img/svg/04.svg" title="Carne da Minha Perna" alt="Carne da Minha Perna" class="main-img">
-        </div>
-      </div>
-
-      <div class="place ponte-boavista">
-        <div class="imgs">
-          <img src="https://2015.devfestne.com.br/img/svg/05.svg" title="Ponte da Boa Vista" alt="Ponte da Boa Vista" class="main-img">
-        </div>
-      </div>
-
-        <div class="place malakoff">
-          <div class="imgs">
-            <img src="https://2015.devfestne.com.br/img/svg/01.svg" title="Torre de Malakoff" alt="Torre de Malakoff" class="main-img">
-          </div>
-        </div>
-
-        <div class="place torre-cristal">
-          <div class="imgs">
-            <img src="https://2015.devfestne.com.br/img/svg/02.svg" title="Torre de Cristal" alt="Torre de Cristal" class="main-img">
-          </div>
-        </div>
-    </div>
-    
+	
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">

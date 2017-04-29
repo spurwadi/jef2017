@@ -1,6 +1,5 @@
 ### General ###
 *.lock
-*.apk
 *.exe
 *.bat
 #*
@@ -16,4 +15,3 @@ _site/
 Thumbs.db
 ehthumbs.db
 automation/
-tools/

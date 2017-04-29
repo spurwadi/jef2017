@@ -43,3 +43,5 @@ Berangkat dari pijakan itu, kami akan sangat menyambut baik ajakan kerja sama da
 <i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
 <i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/footprint.jpg" style="display:none">

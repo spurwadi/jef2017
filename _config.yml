@@ -211,6 +211,7 @@ footerBlocks:
   links:
    # - {permalink: "/cod/", text: "Code of Conduct"}
    - {permalink: "/", text: "Pamflet"}
+   - {permalink: "/", text: "Partnership Proposition"}
    - {permalink: "/assets/denah.jpg", text: "Denah Pameran"}
 
 # Blog

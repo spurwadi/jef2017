@@ -209,9 +209,8 @@ footerBlocks:
  -
   title: "Download"
   links:
-   # - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/assets/JEF2017.pdf", text: "Partnership Proposition"}
    - {permalink: "/", text: "Pamflet"}
-   - {permalink: "/", text: "Partnership Proposition"}
    - {permalink: "/assets/denah.jpg", text: "Denah Pameran"}
 
 # Blog

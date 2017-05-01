@@ -5,4 +5,4 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "TP FIP UNY", description: "Kurikulum dan Teknologi Pendidikan UNY", link: "http://tp.fip.uny.ac.id", imageUrl: "tp2014.png"}
+    - {name: "TP FIP UNY", description: "Kurikulum dan Teknologi Pendidikan UNY", link: "http://tp.fip.uny.ac.id", imageUrl: "tp2014.svg"}

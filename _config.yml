@@ -11,6 +11,7 @@ sass:
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+include: ['.htaccess']
 
 # Site Settings
 title: "Jogja EduFair 2017"

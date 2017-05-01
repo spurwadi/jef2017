@@ -3,11 +3,14 @@ gems:
 - jekyll-sitemap
 safe: false
 
+# CSS Minified
+sass:
+    style: compressed
+
 # Build Settings
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
 
 # Site Settings
 title: "Jogja EduFair 2017"
@@ -74,7 +77,6 @@ aboutBlock:
  - {title: "Exhibition", image: "exhibition.jpg", text: "The biggest education exhibition related event in the country carefully crafted for you by EduTech!" }
  - {title: "Edutainment", image: "playground.jpg", text: "Join us for full-day edutainment, talkshow, workshop, training, playground, edu clinic, and lots of fun :)." }
 ## - {title: "Edu Clinic", image: "workshop.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
-
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

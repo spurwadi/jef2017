@@ -193,6 +193,7 @@ socialLinks:
  - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w (Jogja EduFair)", color: "#00b900"}
  - {permalink: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube-play", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
  - {permalink: "/feed.xml", icon: "rss", title: "RSS Feed", color: "#ff6600"}
+ - {permalink: "/sitemap.xml", icon: "sitemap", title: "Sitemap", color: "#0abab5"}
 footerBlocks:
  -
   title: "Links"

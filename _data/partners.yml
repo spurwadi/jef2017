@@ -7,9 +7,9 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.png", width: "120px"}
-    - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.png", width: "120px"}
+    - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.svg", width: "120px"}
+    - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
-    - {name: "Limuny", description: "Layanan Internet Mahasiswa Universitas Negeri Yogyakarta", link: "https://limunynetcafe.blogspot.co.id/", imageUrl: "limuny.png"}
+    - {name: "Limuny", description: "Layanan Internet Mahasiswa Universitas Negeri Yogyakarta", link: "https://limunynetcafe.blogspot.co.id/", imageUrl: "limuny.svg"}

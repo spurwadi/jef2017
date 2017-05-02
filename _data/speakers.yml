@@ -45,12 +45,11 @@
 - 
   id: 7
   name: ""
-  surname: "Bahruddin"
-  company: "Qaryah Thayyibah Salatiga"
-  title: "Pendiri sekolah Qaryah Thayyibah"
-  bio: "<p>Namanya Ahmad Bahruddin. Rambut gondrong selalu terkucir. Dialah pendiri Qoryah Thayibbah, sebuah sekolah alternatif di Salatiga. Sekolah ini berlangsung tanpa kelas, tanpa kurikulum, tanpa seragam, dan tak menyediakan ijasah. Para peserta didik di QT, dari SD hingga SMA, belajar mengembangkan potensinya masing-masing, dalam waktu, tempat, dan materi pembelajaran yang longgar dan independen dari kurikulum buatan negara.</p>"
-  thumbnailUrl: bahruddin.jpg
+  surname: "Prof. Dr. Mustaji, M.Pd."
+  company: "Universitas Negeri Surabaya"
+  bio: "<p>Prof. Dr. Mustaji, M.Pd., lahir di Tuban pada tanggal 5 Oktober 1964 adalah dosen di Universitas Negeri Surabaya sejak 1 Desember 1988. Pendidikan terakhir yang ditempuh adalah S3 Jurusan Teknologi Pendidikan di UM, lulus pada tahun 2009. <br/>Jabatan terakhir yang diemban adalah Wakil Dekan I FIP. Sejak tahun 2014 sampai 2016 beliau berperan aktif dalam kegiatan penelitian di simlitabmas.</p>"
+  thumbnailUrl: mustaji.jpg
   rockstar: true
   ribbon:
   social: 
-    - {name: "site", link: "http://www.kbqt.org/"}
+    - {name: "site", link: "http://mustaji.staff.unesa.ac.id/"}

@@ -10,7 +10,8 @@
     - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.svg", width: "120px"}
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
-    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "100px"}
+    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "95px"}
+    - {name: "YOUCAN", description: "YOUCAN - Youth Center to Act For Nations", link: "http://www.youcan-indonesia.org/", imageUrl: "youcan.svg", width: "120px"}
     - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
 - 
   group: "Information partners"

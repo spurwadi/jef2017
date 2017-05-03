@@ -11,7 +11,8 @@
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
     - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "120px"}
+	- {name: "MovieBox", description: "MovieBox", link: "", imageUrl: "moviebox.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
-    - {name: "Limuny", description: "Layanan Internet Mahasiswa Universitas Negeri Yogyakarta", link: "https://limunynetcafe.blogspot.co.id/", imageUrl: "limuny.svg"}
+    - {name: "Geronimo", description: "Geronimo 106.1 FM – The Real Sound of Yogya", link: "http://www.geronimo.fm/", imageUrl: "geronimo.svg"}

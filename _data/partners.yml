@@ -10,10 +10,11 @@
     - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.svg", width: "120px"}
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
-    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "120px"}
+    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "100px"}
     - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
     - {name: "Geronimo", description: "Geronimo 106.1 FM – The Real Sound of Yogya", link: "http://www.geronimo.fm/", imageUrl: "geronimo.svg"}
     - {name: "RRI", description: "Radio Republik Indonesia Yogyakarta", link: "http://rri.co.id/yogyakarta/home.html", imageUrl: "rri.svg"}
+    - {name: "UNY Community", description: "UNY Community", link: "http://unycommunity.com/", imageUrl: "unycommunity.svg"}

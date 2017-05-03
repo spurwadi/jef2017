@@ -10,6 +10,7 @@
     - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.svg", width: "120px"}
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
+    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 

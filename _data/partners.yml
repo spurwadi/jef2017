@@ -1,7 +1,7 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.png", width: "210px"}
+    - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.svg", width: "210px"}
     - {name: "Universitas Negeri Yogyakarta", description: "Universitas Negeri Yogyakarta", link: "http://uny.ac.id", imageUrl: "uny.svg", width: "210px"}
     - {name: "BPAD DIY", description: "Badan Perpustakaan dan Arsip Daerah DIY", link: "http://bpad.jogjaprov.go.id/", imageUrl: "bpad.png", width: "210px"}
 - 

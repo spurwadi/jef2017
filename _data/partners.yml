@@ -1,9 +1,9 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.svg", width: "230px"}
     - {name: "Universitas Negeri Yogyakarta", description: "Universitas Negeri Yogyakarta", link: "http://uny.ac.id", imageUrl: "uny.svg", width: "150px"}
     - {name: "BPAD DIY", description: "Badan Perpustakaan dan Arsip Daerah DIY", link: "http://bpad.jogjaprov.go.id/", imageUrl: "jogja.svg", width: "150px"}
+    - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.svg", width: "230px"}
 - 
   group: "With support of"
   elements: 
@@ -13,6 +13,7 @@
     - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "95px"}
     - {name: "YOUCAN", description: "YOUCAN - Youth Center to Act For Nations", link: "http://www.youcan-indonesia.org/", imageUrl: "youcan.svg", width: "120px"}
     - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
+    - {name: "Jogja Konveksi", description: "Jogja Konveksi - Pusat Konveksi di Yogyakarta", link: "http://jogjakonveksi.com/", imageUrl: "kadowisudaku.svg", width: "120px"}
     - {name: "Kado Wisudaku", description: "Kado Wisudaku - Toko Online Kado Boneka Wisuda", link: "http://kadowisudaku.com/", imageUrl: "kadowisudaku.svg", width: "120px"}
 - 
   group: "Information partners"

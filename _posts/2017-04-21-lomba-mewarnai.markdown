@@ -41,7 +41,7 @@ Biaya pendaftaran Rp 25.000,00 ditransfer ke BRI 695901007618538 a/n Brilia Bell
 
 #### Pelaksanaan
 
-Lomba mewarnai akan dilaksanakan pada 19 Mei 2017 mulai pukul 07.30, bertempat di <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>. (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
+Lomba mewarnai akan dilaksanakan pada 20 Mei 2017 mulai pukul 07.30, bertempat di <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>. (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
 
 #### For More Info
 

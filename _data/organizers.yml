@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "JEF 2017", description: "Jogja EduFair 2017", link: "https://jogjaedufair.id", imageUrl: "jef2017.svg"}
+    - {name: "JEF 2017", description: "Jogja EduFair 2017 Team", link: "/team/", imageUrl: "jef2017.svg"}
 - 
   group: "Co-organizers"
   elements: 

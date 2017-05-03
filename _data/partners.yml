@@ -17,5 +17,5 @@
   group: "Information partners"
   elements: 
     - {name: "Geronimo", description: "Geronimo 106.1 FM – The Real Sound of Yogya", link: "http://www.geronimo.fm/", imageUrl: "geronimo.svg"}
-    - {name: "RRI", description: "Radio Republik Indonesia Yogyakarta", link: "http://rri.co.id/yogyakarta/home.html", imageUrl: "rri.svg"}
+    - {name: "RRI", description: "Radio Republik Indonesia Yogyakarta", link: "http://rri.co.id/yogyakarta/home.html", imageUrl: "rri.svg", width: "120px"}
     - {name: "UNY Community", description: "UNY Community", link: "http://unycommunity.com/", imageUrl: "unycommunity.svg"}

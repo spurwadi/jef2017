@@ -13,9 +13,10 @@
     - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "95px"}
     - {name: "YOUCAN", description: "YOUCAN - Youth Center to Act For Nations", link: "http://www.youcan-indonesia.org/", imageUrl: "youcan.svg", width: "120px"}
     - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
+    - {name: "Kado Wisudaku", description: "Kado Wisudaku - Toko Online Kado Boneka Wisuda", link: "http://kadowisudaku.com/", imageUrl: "kadowisudaku.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
     - {name: "Geronimo", description: "Geronimo 106.1 FM – The Real Sound of Yogya", link: "http://www.geronimo.fm/", imageUrl: "geronimo.svg"}
     - {name: "RRI", description: "Radio Republik Indonesia Yogyakarta", link: "http://rri.co.id/yogyakarta/home.html", imageUrl: "rri.svg", width: "120px"}
-    - {name: "UNY Community", description: "UNY Community", link: "http://unycommunity.com/", imageUrl: "unycommunity.svg"}
+    - {name: "UNY Community", description: "UNY Community - Komunitas Mahasiswa dan Alumni UNY", link: "http://unycommunity.com/", imageUrl: "unycommunity.svg"}

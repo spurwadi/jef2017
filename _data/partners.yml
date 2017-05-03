@@ -11,7 +11,7 @@
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
     - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "120px"}
-	- {name: "MovieBox", description: "MovieBox", link: "", imageUrl: "moviebox.svg", width: "120px"}
+    - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 

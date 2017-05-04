@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Pelatihan Penyusunan Rencana Pelaksanaan Pembelajaran (RPP)"
+title:  "Pelatihan Penyusunan dan Pengembangan RPP"
 date:   2017-05-02 07:00:00
 isStaticPost: false
 ---
+<center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/pelatihan.png" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
 
-<center>Dalam rangka menyambut dies natalis UNY ke-53, Mahasiswa Kurikulum dan Teknologi Pendidikan menyelenggarakan<br/><br/>Pelatihan Penyusunan dan Pengembangan Rencana Pelaksanaan Pembelajaran (RPP)<br/>untuk Guru SMK se-DIY</center>
+<center>
+##### Dalam rangka menyambut dies natalis UNY ke-53, Mahasiswa Kurikulum dan Teknologi Pendidikan menyelenggarakan ##### <br/><br/>
+#### PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY ####
+</center>
 
 #### Deskripsi
 
@@ -46,30 +50,33 @@ Adapun strategi yang dilakukan adalah:
 
 #### Peserta
 
-Sasaran peserta yang direkomendasikan pada pelatihan ini adalah pendidik, pengembang kurikulum, dosen, mahasiswa ilmu pendidikan. Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**multimedia**) yang memenuhi kualifikasi di bidang mata pelajaran yang diampunya dan telah menjadi guru di Sekolah Menengah Kejuruan baik negeri maupun swasta. Tiap sekolah diambil perwakilan maksimal 2 guru dengan jumlah peserta terbatas 20 orang.
+Sasaran peserta yang direkomendasikan pada pelatihan ini adalah pendidik, pengembang kurikulum, dosen, mahasiswa ilmu pendidikan.
+
+Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**multimedia**) yang memenuhi kualifikasi di bidang mata pelajaran yang diampunya dan telah menjadi guru di Sekolah Menengah Kejuruan baik negeri maupun swasta. Tiap sekolah diambil perwakilan maksimal 2 guru dengan jumlah peserta terbatas 20 orang.
 
 #### Instruktur
 
-- Senior konsultan atau praktisi pendidikan
-- Trainer ilmu pendidikan
+- Trainer ilmu pendidikan, senior konsultan dan praktisi pendidikan
 
 #### Investasi
 
 Rp 100.000,00 / peserta
 
-#### Waktu dan Tempat (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
+#### Waktu dan Tempat
 
-Tanggal	: 18 Mei 2017 
-Waktu	: 08:00 s/d 15:00 WIB
-Tempat	: <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>
+<i class="fa fa-calendar fa-lg"></i> Tanggal	: 18 Mei 2017 (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
+
+<i class="fa fa-clock-o fa-lg"></i> Waktu	: 08:00 s/d 15:00 WIB
+
+<i class="fa fa-map-marker fa-lg"></i> Tempat	: <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>
 
 #### Fasilitas
 
-• Qualified instructor
-• Training module
-• Sertifikat
-• Training kit
-• 1x Lunch and 1x cofee break
+- Qualified instructor
+- Training module
+- Sertifikat
+- Training kit
+- 1x Lunch and 1x cofee break
 
 #### Pendaftaran
 
@@ -82,8 +89,6 @@ Investasi ditransfer melalui rekening BNI **436385905 a/n Eka Mukti Sari**
 <i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085642491996">085642491996</a> (Sigit)
 <i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:082351228462">082351228462</a> (Febry)
 
-<center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/pelatihan.png" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
-
 <hr/>
 
 <i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
@@ -95,5 +100,3 @@ Investasi ditransfer melalui rekening BNI **436385905 a/n Eka Mukti Sari**
 <i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
 <i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/lomba-cerdas-tangkas.JPG" style="display:none">

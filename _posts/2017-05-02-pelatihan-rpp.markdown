@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 <center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/pelatihan.png" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
 
-<center><big> PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY</big></center>
+#### <center> PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY</center>
 
 #### Deskripsi
 
@@ -53,7 +53,7 @@ Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**mult
 
 #### Instruktur
 
-<i class="fa fa-group fa-lg"></i> Trainer ilmu pendidikan, senior konsultan dan praktisi pendidikan
+<i class="fa fa-group fa-lg"></i> Trainer ilmu pendidikan dan senior konsultan
 
 #### Investasi
 

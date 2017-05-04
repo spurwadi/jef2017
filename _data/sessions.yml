@@ -52,18 +52,18 @@
   description: "Registrasi peserta Talkshow Waktunya Masyarakat Belajar"
 -
   id: 001
-  title: "Seminar Meaningful Learning"
+  title: "Seminar Kritik Pendidikan Bermakna dan Tragedi Pendidikan Nasional"
   description: "Seminar ini merupakan ajang memperkenalkan bentuk pembelajaran yang bermakna, dimana bukan hanya pendidikan dengan tujuan untuk mengembangkan pengetahuan, afektif, dan psikomotor seperti pendidikan kebanyakan akan tetapi lebih pada pembelajaran untuk mencapai ketenangan jiwa dan hidup bermanfaat bagi orang lain.<br/>Acara ini akan mengudang 3 pembicara yang tentunya berkompeten dalam bidangnya."
   subtype: workshop
   speakers: [5, 6, 7]
-  complexity: "Intermediate"
   video: "//www.youtube.com/embed/sjDVaxkzZ00"
+  moreinfo: "/blog/seminar-kritik-pendidikan"
 -
   id: 002
-  title: "Pelatihan Pengorganisasian Materi Pembelajaran"
+  title: "Pelatihan Penyusunan RPP"
   description: "Pelatihan ini ditujukan untuk guru – guru Sekolah Menengah Kejuruan (SMK) se – D.I.Yogyakarta. Melalui kegiatan pelatihan ini, peserta akan dilatih untuk menyusun dan mengembangkan sendiri perangkat – perangkat yang diperlukan dalam pembelajaran khususnya silabus. Dengan adanya pelatihan ini diharapkan proses pembelajaran menjadi lebih baik dan lebih bersifat kontekstual sesuai dengan karakteristik lingkungan dan budaya di masing – masing sekolah."
   subtype: presentation
-  speakers: []
+  moreinfo: "/blog/pelatihan-rpp"
 -
   id: 003
   title: "Opening Ceremony"
@@ -96,7 +96,7 @@
   subtype: workshop
 -
   id: 008
-  title: "EdTech Exhibition"
+  title: "Media Exhibition"
   description: "Dalam acara ini akan dipamerkan berbagai macam jenis media pembelajaran yang terdiri dari multimedia interaktif, alat permainan edukatif (APE), video, modul, poster, diorama, alat peraga dan lain sebagainya. Pemeran media pembelajaran ini berlangsung selama 3 (tiga) hari dan diikuti tidak hanya dari jurusan Teknologi Pendidikan namun oleh berbagai jurusan lain yang ada di Universitas Negeri Yogyakarta"
   subtype: workshop
 -

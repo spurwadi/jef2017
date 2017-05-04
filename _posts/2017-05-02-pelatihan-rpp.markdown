@@ -6,10 +6,7 @@ isStaticPost: false
 ---
 <center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/pelatihan.png" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
 
-<center>
-##### Dalam rangka menyambut dies natalis UNY ke-53, Mahasiswa Kurikulum dan Teknologi Pendidikan menyelenggarakan ##### <br/><br/>
-#### PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY ####
-</center>
+<center><big> PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY</big></center>
 
 #### Deskripsi
 
@@ -56,7 +53,7 @@ Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**mult
 
 #### Instruktur
 
-- Trainer ilmu pendidikan, senior konsultan dan praktisi pendidikan
+<i class="fa fa-group fa-lg"></i> Trainer ilmu pendidikan, senior konsultan dan praktisi pendidikan
 
 #### Investasi
 

@@ -55,3 +55,21 @@
   ribbon:
   social: 
     - {name: "site", link: "http://mustaji.staff.unesa.ac.id/"}
+- 
+  id: 8
+  name: ""
+  surname: "Drs. R. Kadarmanta Baskara Aji"
+  company: "Dikpora Daerah Istimewa Yogyakarta"
+  title: "Kepala Dinas"
+  bio: "<p></p>"
+  thumbnailUrl: kadarmanta.jpg
+  rockstar: true
+- 
+  id: 9
+  name: ""
+  surname: "Drs. Monika Nur Lastiyanti, MM."
+  company: "BPAD Daerah Istimewa Yogyakarta"
+  title: "Kepala UPT Grhatama Pustaka"
+  bio: "<p></p>"
+  thumbnailUrl: female.svg
+  rockstar: true

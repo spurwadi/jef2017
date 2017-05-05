@@ -16,7 +16,7 @@ include: ['.htaccess']
 # Site Settings
 title: "Jogja EduFair 2017"
 email: "jogjaedufair@gmail.com"
-description: "Jogja EduFair merupakan sebuah event tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Pameran ini menampilkan hasil produk dan kreasi mahasiswa Kurikulum dan Teknologi Pendidikan."
+description: "Jogja EduFair adalah event pendidikan terbesar di Yogyakarta, merupakan sebuah acara tahunan yang diselenggarakan oleh Prodi Teknologi Pendidikan Universitas Negeri Yogyakarta. Pameran ini menampilkan hasil produk dan kreasi mahasiswa Kurikulum dan Teknologi Pendidikan."
 baseurl: ""
 url: "https://jogjaedufair.id"
 permalink: "/blog/:title"

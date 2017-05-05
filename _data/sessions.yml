@@ -74,9 +74,9 @@
 -
   id: 004
   title: "Talkshow: Waktunya Masyarakat Belajar"
-  description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 3 orang yang berkompeten dalam bidangnya sebagai pembicara."
+  description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 2 orang yang berkompeten dalam bidangnya sebagai pembicara."
   subtype: keynote
-  speakers: []
+  speakers: [8, 9]
 -
   id: 005
   title: "Education Clinic"

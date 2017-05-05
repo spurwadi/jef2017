@@ -3,7 +3,7 @@
   name: "Tera"
   surname: "Meinta Dwi Kartika"
   title: "Ketua Panitia JEF2017"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   team: true
   ribbon: 
     - {abbr: "JEF", title: "Panitia Inti"}
@@ -16,7 +16,7 @@
   name: "Risqi"
   surname: "Nuruz Syifa"
   title: "Wakil Ketua Panitia JEF2017"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   team: true
   ribbon: 
     - {abbr: "JEF", title: "Panitia Inti"}
@@ -29,7 +29,7 @@
   name: "Fiska"
   surname: "Nurul Hidayah"
   title: "Sekretaris"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   team: true
   ribbon: 
     - {abbr: "JEF", title: "Panitia Inti"}
@@ -38,7 +38,7 @@
   name: "Karina"
   surname: "Adinda Ariatna"
   title: "Bendahara"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   team: true
   ribbon: 
     - {abbr: "JEF", title: "Panitia Inti"}
@@ -47,16 +47,16 @@
   name: "Amanda"
   surname: "Risky Amalia"
   title: "Koordinator Sie. Acara"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   subTeam: true
   ribbon:
     - {abbr: "Koor", title: "Koordinator"}
 - 
   id: 5
   name: "Anggoro"
-  surname: "Tri Waluyo"
+  surname: "Tri Waluyo J"
   title: "Koordinator Sie. Humas"
-  thumbnailUrl: anon-male.png
+  thumbnailUrl: male.svg
   subTeam: true
   ribbon: 
     - {abbr: "Koor", title: "Koordinator"}
@@ -65,7 +65,7 @@
   name: "Yunia"
   surname: "Chandra Siswandari"
   title: "Koordinator Sie. Sponsorship"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   subTeam: true
   ribbon: 
     - {abbr: "Koor", title: "Koordinator"}
@@ -74,7 +74,7 @@
   name: "Fikry"
   surname: "Ahmad Sultoni"
   title: "Koordinator Sie. Perlengkapan"
-  thumbnailUrl: anon-male.png
+  thumbnailUrl: male.svg
   subTeam: true
   ribbon: 
     - {abbr: "Koor", title: "Koordinator"}
@@ -83,7 +83,7 @@
   name: "Iwan"
   surname: "Sanjaya"
   title: "Koordinator Sie. Publikasi, Dekorasi, Dokumentasi"
-  thumbnailUrl: anon-male.png
+  thumbnailUrl: male.svg
   subTeam: true
   ribbon: 
     - {abbr: "Koor", title: "Koordinator"}
@@ -92,7 +92,7 @@
   name: "Azkia"
   surname: "Desi Winarningtyas"
   title: "Koordinator Sie. Konsumsi"
-  thumbnailUrl: anon-fem.png
+  thumbnailUrl: female.svg
   subTeam: true
   ribbon: 
     - {abbr: "Koor", title: "Koordinator"}

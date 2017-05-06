@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Talksow Waktunya Masyarakat Belajar"
+title:  "Talkshow Waktunya Masyarakat Belajar"
 date:   2017-05-05 07:00:00
 isStaticPost: false
 ---
@@ -12,6 +12,8 @@ Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang w
 
 1. Drs. R. Kadarmanta Baskara Aji (Kepala Disdikpora DIY)
 2. Drs. Monika Nur Lastiyanti, MM. (Kepala Grhatama Pustaka Yogyakarta)
+
+<a href="/speakers/" target="_blank">lihat semua pembicara</a>
 
 Moderator: Achmad Saptiadi (ketua BEM FIP UNY 2017)
 
@@ -31,13 +33,9 @@ Moderator: Achmad Saptiadi (ketua BEM FIP UNY 2017)
 
 #### Pendaftaran
 
-Pendaftaran <b>GRATIS!</b> dengan mengirimkan pesan melalui SMS/WA dengan format **JEF_Nama_Instansi/Lembaga_Jumlah kehadiran** dikirim ke <i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085742341045"> 085742341045</a> (Arif).
+Pendaftaran <b>GRATIS!</b> terbatas hanya untuk <b>70 peserta</b>.
 
-Talksow terbatas hanya untuk <b>70 peserta</b>.
-
-#### Narahubung
-
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085742341045"> 085742341045</a> (Arif)
+Daftar sekarang dengan format **JEF_Nama_Instansi/Lembaga_Jumlah kehadiran** kirim ke <i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085742341045"> 085742341045</a> (Arif).
 
 <hr/>
 

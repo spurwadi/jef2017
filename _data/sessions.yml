@@ -77,6 +77,7 @@
   description: "Acara ini bertujuan mengajak masyarakat untuk lebih memiliki kesadaran tentang waktu – waktu belajar yang efektif sehingga dapat meningkatkan kompetensi masyarakat sendiri. Talkshow ini akan menghadirkan 2 orang yang berkompeten dalam bidangnya sebagai pembicara."
   subtype: keynote
   speakers: [8, 9]
+  moreinfo: "/blog/talkshow-waktunya-masyarakat-belajar"
 -
   id: 005
   title: "Education Clinic"

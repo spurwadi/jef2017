@@ -54,7 +54,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/direction/", text: "Direction"}
  - {permalink: "/footprint/", text: "About Us"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+ - {link: "https://closing.jogjaedufair.id/", text: "<i class="fa fa-star" aria-hidden="true" title="JEF Closing Ceremony" style="color:#bb0000"></i> Guest Star"}
 bottomNavigationLinks:
  - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 rightNavigationButtons:

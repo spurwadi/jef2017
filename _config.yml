@@ -104,6 +104,7 @@ guestStarButtonText: "More Info"
 
 # Location Block
 locationBlockTitle: "Location"
+eventLocationName: "Grhatama Pustaka Yogyakarta"
 eventLocationLink: "https://www.facebook.com/grhatamapustaka/"
 eventStreetAddress: "Jalan Janti, Banguntapan"
 eventAddressLocality: "Bantul"

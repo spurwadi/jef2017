@@ -64,7 +64,7 @@ rightNavigationButtons:
 heroImage: "hero2.jpg"
 heroTitle: "Jogja EduFair <typeout> 2017"
 eventDate: "Parameter Perkembangan Pendidikan Indonesia <br/><br/><b>18 - 20 May 2017</b>"
-typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Edu Clinic", "on May", "Have fun :)"'
+typeoutTextValues: '"", "Exhibitions", "EdTech", "Edutainment", "Talkshow", "Workshops", "Playground", "Training", "Edu Clinic", "on May", "Grhatama Pustaka", "Have fun :)"'
 typeoutFallback: ""
 heroButtons:
  ##- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -104,7 +104,6 @@ guestStarButtonText: "More Info"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Grhatama Pustaka"
 eventLocationLink: "https://www.facebook.com/grhatamapustaka/"
 eventStreetAddress: "Jalan Janti, Banguntapan"
 eventAddressLocality: "Bantul"
@@ -250,30 +249,6 @@ directionDetailsCards:
  - {title: "Public Transit", information: 'Google Transit is available in Jogja. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Yogyakarta.'}
  - {title: "Hotels", information: 'Yogyakarta has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
      
 # Footprint About Block
 aboutFootprintTitle: "EdTech in action"

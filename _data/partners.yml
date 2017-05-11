@@ -4,14 +4,17 @@
     - {name: "Universitas Negeri Yogyakarta", description: "Universitas Negeri Yogyakarta", link: "http://uny.ac.id", imageUrl: "uny.svg", width: "150px"}
     - {name: "BPAD DIY", description: "Badan Perpustakaan dan Arsip Daerah DIY", link: "http://bpad.jogjaprov.go.id/", imageUrl: "jogja.svg", width: "150px"}
     - {name: "Dies Natalis UNY ke-53", description: "Dies Natalis UNY ke-53", link: "http://diesnatalis.uny.ac.id", imageUrl: "diesnatalisuny53.svg", width: "230px"}
+    - {name: "PGSD UNY 2", description: "Himpunan Mahasiswa PGSD UNY kampus 2", link: "http://pgsdunykampusdua.blogspot.co.id/", imageUrl: "pgsd2.svg", width: "150px"}
 - 
   group: "With support of"
   elements: 
     - {name: "Faber-Castell", description: "Faber-Castell Indonesia", link: "http://www.faber-castell.co.id", imageUrl: "faber-castell.svg", width: "120px"}
     - {name: "Explora", description: "Explora Digital Printing", link: "https://www.exploraprint.com", imageUrl: "explora.svg", width: "120px"}
     - {name: "Virtue", description: "Virtue Trip", link: "http://virtuetrip.id/", imageUrl: "virtue.svg", width: "120px"}
-    - {name: "World Food", description: "World Food Restaurant", link: "", imageUrl: "worldfood.svg", width: "95px"}
+    - {name: "World Food", description: "World Food Restaurant", imageUrl: "worldfood.svg", width: "95px"}
     - {name: "YOUCAN", description: "YOUCAN - Youth Center to Act For Nations", link: "http://www.youcan-indonesia.org/", imageUrl: "youcan.svg", width: "120px"}
+    - {name: "Happy Puppy", description: "Happy Puppy - Karaoke Keluarga", link: "https://www.happy-puppy.co.id", imageUrl: "happy-puppy.svg", width: "120px"}
+    - {name: "Mataram Indah", description: "Mataram Indah - Mencerdaskan Anak Indonesia", imageUrl: "mataramindah.svg", width: "120px"}
     - {name: "MovieBox", description: "MovieBox", link: "http://www.moviebox.co.id/", imageUrl: "moviebox.svg", width: "120px"}
     - {name: "Jogja Konveksi", description: "Jogja Konveksi - Pusat Konveksi di Yogyakarta", link: "http://jogjakonveksi.com/", imageUrl: "jogjakonveksi.svg", width: "120px"}
     - {name: "Kado Wisudaku", description: "Kado Wisudaku - Toko Online Kado Boneka Wisuda", link: "http://kadowisudaku.com/", imageUrl: "kadowisudaku.svg", width: "120px"}
@@ -20,4 +23,5 @@
   elements: 
     - {name: "Geronimo", description: "Geronimo 106.1 FM – The Real Sound of Yogya", link: "http://www.geronimo.fm/", imageUrl: "geronimo.svg"}
     - {name: "RRI", description: "Radio Republik Indonesia Yogyakarta", link: "http://rri.co.id/yogyakarta/home.html", imageUrl: "rri.svg", width: "120px"}
+    - {name: "Radio Edukasi", description: "Radio Edukasi", link: "http://radioedukasi.kemdikbud.go.id", imageUrl: "radio-edukasi.svg"}
     - {name: "UNY Community", description: "UNY Community - Komunitas Mahasiswa dan Alumni UNY", link: "http://unycommunity.com/", imageUrl: "unycommunity.svg"}

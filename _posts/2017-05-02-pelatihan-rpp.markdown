@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pelatihan Penyusunan dan Pengembangan RPP"
-date:   2017-05-02 07:00:00
+date:   2017-05-10 07:00:00
 isStaticPost: false
 ---
 <center><a href="/img/pamflet/pamflet-pelatihan-rpp.jpg" target="_blank"><img src="/img/pamflet/pamflet-pelatihan-rpp.jpg" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>

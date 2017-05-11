@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
 # c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-c4pUrl: "https://jogjaedufair.id/#partners"
+c4pUrl: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
 c4sponsorsUrl: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017"
 
 # Navigation
@@ -58,7 +58,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
+ - {link: "https://jogjaedufair.id/#partners", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero2.jpg"

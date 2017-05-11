@@ -4,9 +4,9 @@ title:  "Pelatihan Penyusunan dan Pengembangan RPP"
 date:   2017-05-02 07:00:00
 isStaticPost: false
 ---
-<center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/pelatihan.png" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
+<center><a href="/img/pamflet/pamflet-pelatihan-rpp.jpg" target="_blank"><img src="/img/pamflet/pamflet-pelatihan-rpp.jpg" alt="Pamflet Pelatihan Penyusunan RPP" width="90%" /></a></center>
 
-#### <center> PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)<br/>untuk Guru SMK se-DIY</center>
+#### <center> PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)</center>
 
 #### Deskripsi
 
@@ -49,7 +49,7 @@ Adapun strategi yang dilakukan adalah:
 
 Sasaran peserta yang direkomendasikan pada pelatihan ini adalah pendidik, pengembang kurikulum, dosen, mahasiswa ilmu pendidikan.
 
-Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**multimedia**) yang memenuhi kualifikasi di bidang mata pelajaran yang diampunya dan telah menjadi guru di Sekolah Menengah Kejuruan baik negeri maupun swasta. Tiap sekolah diambil perwakilan maksimal 2 guru dengan jumlah peserta terbatas 20 orang.
+Diutamakan bagi bidang kejuruan dengan jumlah peserta terbatas untuk **20 orang**.
 
 #### Instruktur
 
@@ -57,7 +57,7 @@ Secara khusus, peserta adalah guru dari mata pelajaran kejuruan tertentu (**mult
 
 #### Investasi
 
-Rp 100.000,00 / peserta
+GRATIS terbatas untuk 20 peserta!
 
 #### Waktu dan Tempat
 
@@ -72,14 +72,11 @@ Rp 100.000,00 / peserta
 - Qualified instructor
 - Training module
 - Sertifikat
-- Training kit
-- 1x Lunch and 1x cofee break
+- Makan siang
 
 #### Pendaftaran
 
-Pendaftaran mulai tanggal 16 April - 14 Mei 2017 melalui SMS/WA dengan format **Nama_Instansi/Jurusan** dikirim ke narahubung.
-
-Investasi ditransfer melalui rekening BNI **436385905 a/n Eka Mukti Sari**
+Pendaftaran mulai tanggal 16 April - 14 Mei 2017 melalui SMS/WA dengan format **Nama_Instansi/Jurusan_Angkatan** dikirim ke narahubung.
 
 #### Narahubung
 

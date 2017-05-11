@@ -2,24 +2,24 @@
   date: "2017-05-18"
   dateReadable: "Kamis, 18 Mei 2017"
   tracks: 
-    - {title: "Grhatama Pustaka", color: "#90be4e"}
+    - {title: "Ruang lt. 2", color: "#90be4e"}
     - {title: "Ruang Seminar", color: "#03a9f4"}
-    - {title: "Stage", color: "#e91e63"}
+    - {title: "Stage (Halaman Depan)", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
-    	endTime: "08:30",
-    	sessionIds: [404, 601, 404]
+    	endTime: "08:00",
+    	sessionIds: [605, 601, 404]
     }
     - {
-       startTime: "08:30",
-       endTime: "09:30",
+       startTime: "08:00",
+       endTime: "08:30",
        sessionIds: [404, 404, 003]
     }
     - {
-       startTime: "09:30",
-       endTime: "12:00",
-       sessionIds: [404, 001, 404]
+       startTime: "08:30",
+       endTime: "12:30",
+       sessionIds: [002, 001, 404]
     }
     - {
     	startTime: "12:00",
@@ -27,9 +27,9 @@
     	sessionIds: [600]
     }
     - {
-       startTime: "03:00",
-       endTime: "14:30",
-       sessionIds: [404, 001, 404]
+       startTime: "13:00",
+       endTime: "15:00",
+       sessionIds: [002, 404, 404]
     }
     - {
        startTime: "14:00",
@@ -49,12 +49,12 @@
   dateReadable: "Jum'at, 19 Mei 2017"
   tracks: 
     - {title: "Grhatama Pustaka", color: "#90be4e"}
-    - {title: "Stage", color: "#03a9f4"}
+    - {title: "Stage (Halaman Depan)", color: "#03a9f4"}
     - {title: "Playground", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:30",
-    	endTime: "08:30",
+    	endTime: "08:00",
     	sessionIds: [602]
     }
     - {

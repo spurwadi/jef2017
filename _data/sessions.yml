@@ -19,7 +19,7 @@
   title: "Registrasi Peserta"
   place: "Meja registrasi (Ruang Seminar)"
   service: false
-  description: "Registrasi peserta seminar Meaningful Learning"
+  description: "Registrasi peserta Seminar Kritik Pendidikan Bermakna dan Tragedi Pendidikan Nasional"
 -
   id: 602
   title: "Registrasi Peserta"
@@ -43,7 +43,7 @@
   title: "Registrasi Peserta"
   place: "Meja registrasi"
   service: false
-  description: "Registrasi peserta pelatihan Penyusunan RPP"
+  description: "Registrasi peserta Pelatihan Penyusunan dan Pengembangan RPP"
 -
   id: 606
   title: "Registrasi Peserta"
@@ -97,7 +97,7 @@
   subtype: workshop
 -
   id: 008
-  title: "Media Exhibition"
+  title: "EdTech Exhibition"
   description: "Dalam acara ini akan dipamerkan berbagai macam jenis media pembelajaran yang terdiri dari multimedia interaktif, alat permainan edukatif (APE), video, modul, poster, diorama, alat peraga dan lain sebagainya. Pemeran media pembelajaran ini berlangsung selama 3 (tiga) hari dan diikuti tidak hanya dari jurusan Teknologi Pendidikan namun oleh berbagai jurusan lain yang ada di Universitas Negeri Yogyakarta"
   subtype: workshop
 -

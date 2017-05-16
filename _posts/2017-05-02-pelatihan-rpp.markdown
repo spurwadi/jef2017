@@ -78,6 +78,8 @@ GRATIS terbatas untuk 20 peserta!
 
 Pendaftaran mulai tanggal 16 April - 14 Mei 2017 melalui SMS/WA dengan format **Nama_Instansi/Jurusan_Angkatan** dikirim ke narahubung.
 
+<a href="/blog/peraturan-pelatihan-rpp"><b>Lihat Peraturan dan Tata Tertib Pelatihan RPP</b></a>
+
 #### Narahubung
 
 <i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085642491996">085642491996</a> (Sigit)

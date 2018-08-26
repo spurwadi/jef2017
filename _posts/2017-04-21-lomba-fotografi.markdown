@@ -5,9 +5,9 @@ date:   2017-05-11 07:00:00
 isStaticPost: false
 ---
 
-<center><a href="/img/pamflet/lomba-fotografi.jpg" target="_blank"><img src="/img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi" width="90%" /></a></center>
+<center><a href="{{ site.baseurl }}/img/pamflet/lomba-fotografi.jpg" target="_blank"><img src="{{ site.baseurl }}/img/pamflet/lomba-fotografi.jpg" alt="Pamflet Lomba Fotografi" width="90%" /></a></center>
 
-Lomba fotografi diadakan untuk tingkat SMA sederajat hingga mahasiswa se – DIY. <br/>Hasil karya dari lomba fotografi akan ditampilkan dalam <a href="/schedule/#session-008" target="_blank">pameran media Jogja EduFair 2017</a>. <br/>Lomba ini akan fokus menyoroti tentang fenomena pendidikan di sekitar.
+Lomba fotografi diadakan untuk tingkat SMA sederajat hingga mahasiswa se – DIY. <br/>Hasil karya dari lomba fotografi akan ditampilkan dalam <a href="{{ site.baseurl }}/schedule/#session-008" target="_blank">pameran media Jogja EduFair 2017</a>. <br/>Lomba ini akan fokus menyoroti tentang fenomena pendidikan di sekitar.
 
 #### Syarat dan Ketentuan
 
@@ -25,7 +25,7 @@ Lomba fotografi diadakan untuk tingkat SMA sederajat hingga mahasiswa se – DIY
 
 Pendaftaran ke CP dengan format __#lombafotojef_Nama Lengkap_Kota_Sekolah_Kelas__
 
-Biaya pendaftaran 10k/foto ditransfer ke rekening **BNI 436385905 a/n Eka Mukti Sari**
+Biaya pendaftaran 10k/foto ditransfer ke rekening **BNI 987654321 a/n Eka Mukti Sari**
 
 #### Hadiah
 
@@ -37,7 +37,7 @@ Setiap peserta mendapatkan sertifikat
 
 #### Contact Person
 
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085701438704">085701438704</a> (Anggi)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:08123456789">08123456789</a> (Anggi)
 
 <i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 

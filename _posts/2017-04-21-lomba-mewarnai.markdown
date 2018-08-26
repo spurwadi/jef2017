@@ -5,13 +5,13 @@ date:   2017-04-21 08:00:00
 isStaticPost: false
 ---
 
-<center><a href="img/pamflet/lomba-mewarnai.png" target="_blank"><img src="/img/pamflet/lomba-mewarnai.png" alt="Pamflet Lomba Mewarnai" width="90%"></a></center>
+<center><a href="{{ site.baseurl }}/img/pamflet/lomba-mewarnai.png" target="_blank"><img src="{{ site.baseurl }}/img/pamflet/lomba-mewarnai.png" alt="Pamflet Lomba Mewarnai" width="90%"></a></center>
 
 Lomba mewarnai sebagai ajang berkreasi ajang bagi anak – anak tingkat TK.
 
 Lomba ini akan diikuti oleh sekitar 150 peserta se – DIY yang akan memperebutkan tropi dan hadiah menarik lainnya. Lomba mewarnai dengan tema “**Aku Suka Belajar**” ini diharapkan mampu mengembangkan kreatifitas anak dan menanamkan kesadaran akan pendidikan.
 
-Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara [Closing Ceremony Jogja Edufair 2017](schedule/#session-9).
+Pengumuman pemenang lomba dan penyerahan hadiah akan dilaksanakan pada acara [Closing Ceremony Jogja Edufair 2017]({{ site.baseurl }}/schedule/#session-9).
 
 #### Pendaftaran
 
@@ -41,7 +41,7 @@ Biaya pendaftaran Rp 25.000,00 ditransfer ke BRI 987654321 a/n Brilia Bella Pang
 
 #### Pelaksanaan
 
-Lomba mewarnai akan dilaksanakan pada 20 Mei 2017 mulai pukul 07.30, bertempat di <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>. (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
+Lomba mewarnai akan dilaksanakan pada 20 Mei 2017 mulai pukul 07.30, bertempat di <a href="{{ site.baseurl }}/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>. (<a href="{{ site.baseurl }}/schedule/" target="_blank">lihat jadwal acara</a>)
 
 #### For More Info
 

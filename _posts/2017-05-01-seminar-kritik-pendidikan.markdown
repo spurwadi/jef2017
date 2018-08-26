@@ -4,7 +4,7 @@ title:  "Seminar Kritik Pendidikan Bermakna dan Tragedi Pendidikan Nasional"
 date:   2017-05-01 07:00:00
 isStaticPost: false
 ---
-<center><a href="/img/pamflet/pelatihan.png" target="_blank"><img src="/img/pamflet/seminar-kritik.jpg" alt="Pamflet Seminar Kritis" width="90%" /></a></center>
+<center><a href="{{ site.baseurl }}/img/pamflet/pelatihan.png" target="_blank"><img src="{{ site.baseurl }}/img/pamflet/seminar-kritik.jpg" alt="Pamflet Seminar Kritis" width="90%" /></a></center>
 
 Pendidikan bermakna secara konseptualistik merupakan kombinasi antara pedagogi kritis dan pendidikan partisiparotis. Pedagogi kritis berarti berwatak kritik, dalam arti proses pendidikan harus emansipatoris, yaitu membebaskan dari struktur-struktur buatan manusia yang menindas baik itu pada tingkat produksi pengetahuannya maupun praksisnya. Ini berarti pendidikan harus memiliki proyek utama membangun kesadaran kritis yang peka terhadap ketidakadilan.
 
@@ -32,9 +32,9 @@ Pendidikan bermakna bisa membangun kesadaran kritis yang sensitif terhadap isu f
 
 ##### Narahubung
 
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085774370834">085774370834</a> (Halimah)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:08123456789">08123456789</a> (Halimah)
 
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085726071658">085726071658</a> (Lina)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:08123456789">08123456789</a> (Lina)
 
 <i class="fa fa-facebook-square fa-lg"></i> Facebook  : [Jogja EduFair](https://facebook.com/JogjaEduFair)
 
@@ -44,4 +44,4 @@ Pendidikan bermakna bisa membangun kesadaran kritis yang sensitif terhadap isu f
 
 <i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
-<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
+<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](/)

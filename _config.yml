@@ -54,11 +54,11 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/direction/", text: "Direction"}
  - {permalink: "/footprint/", text: "About Us"}
- - {link: "https://closing.jogjaedufair.id/", text: "<b>⋆ Guest Star ⋆</b>"}
+ - {link: "{{ site.url }}/jef2017-closing", text: "<b>⋆ Guest Star ⋆</b>"}
 bottomNavigationLinks:
  - {link: "mailto:jogjaedufair@gmail.com?subject=Sponsorship%20inquiry%20for%20Jogja%20EduFair%202017", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "https://jogjaedufair.id/#partners", text: "Become a sponsor"}
+ - {link: "{{ site.baseurl }}/#partners", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero2.jpg"

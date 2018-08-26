@@ -188,11 +188,11 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {permalink: "https://instagram.com/jogjaedufair", icon: "instagram", title: "Instagram @JogjaEduFair", color: "#125688"}
- - {permalink: "https://facebook.com/jogjaedufair", icon: "facebook-square", title: "Facebook Jogja EduFair", color: "#3b5998"}
- - {permalink: "https://twitter.com/jogjaedufair", icon: "twitter", title: "Twitter @JogjaEduFair", color: "#55acee"}
- - {permalink: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w (Jogja EduFair)", color: "#00b900"}
- - {permalink: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube-play", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
+ - {link: "https://instagram.com/jogjaedufair", icon: "instagram", title: "Instagram @JogjaEduFair", color: "#125688"}
+ - {link: "https://facebook.com/jogjaedufair", icon: "facebook-square", title: "Facebook Jogja EduFair", color: "#3b5998"}
+ - {link: "https://twitter.com/jogjaedufair", icon: "twitter", title: "Twitter @JogjaEduFair", color: "#55acee"}
+ - {link: "//line.me/ti/p/~@ftj7214w", icon: "weixin", title: "Line @ ftj7214w (Jogja EduFair)", color: "#00b900"}
+ - {link: "https://www.youtube.com/channel/UCtH6J-0F4pv96dAOU-TB7qQ", icon: "youtube-play", title: "Youtube Channel Jogja EduFair", color: "#bb0000"}
  - {permalink: "/feed.xml", icon: "rss", title: "RSS Feed", color: "#ff6600"}
  - {permalink: "/sitemap.xml", icon: "sitemap", title: "Sitemap", color: "#0abab5"}
 footerBlocks:
@@ -215,7 +215,7 @@ footerBlocks:
   links:
    - {permalink: "/assets/JEF2017.pdf", text: "Partnership Proposition"}
    - {permalink: "/", text: "Pamflet"}
-   - {permalink: "/assets/denah.jpg", text: "Denah Pameran"}
+   - {permalink: "/assets/denah.jpg", text: "Blueprint"}
 
 # Blog
 blogTitle: "Latest news"

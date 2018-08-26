@@ -4,7 +4,7 @@ title:  "Tata Tertib Pelatihan Penyusunan dan Pengembangan RPP"
 date:   2017-05-16 07:00:00
 isStaticPost: false
 ---
-#### <center> <a href="/blog/pelatihan-rpp">PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)</a></center>
+#### <center> <a href="{{ site.baseurl }}/blog/pelatihan-rpp">PELATIHAN PENYUSUNAN DAN PENGEMBANGAN RENCANA PELAKSANAAN PEMBELAJARAN (RPP)</a></center>
 
 #### Tata Tertib Peserta Pelatihan
 
@@ -30,17 +30,17 @@ NB: Peserta dimohon membawa peta **Kompetensi Inti (KI)** dan **Kompetensi Dasar
 
 #### Waktu dan Tempat
 
-<i class="fa fa-calendar fa-lg"></i> Tanggal	: 18 Mei 2017 (<a href="/schedule/" target="_blank">lihat jadwal acara</a>)
+<i class="fa fa-calendar fa-lg"></i> Tanggal	: 18 Mei 2017 (<a href="{{ site.baseurl }}/schedule/" target="_blank">lihat jadwal acara</a>)
 
 <i class="fa fa-clock-o fa-lg"></i> Waktu	: 08:00 s/d 15:00 WIB
 
-<i class="fa fa-map-marker fa-lg"></i> Tempat	: <a href="/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>
+<i class="fa fa-map-marker fa-lg"></i> Tempat	: <a href="{{ site.baseurl }}/direction/" target="_blank">Grhatama Pustaka Yogyakarta</a>
 
 #### Narahubung
 
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:085642491996">085642491996</a> (Sigit)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:08123456789">08123456789</a> (Sigit)
 
-<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:082351228462">082351228462</a> (Febry)
+<i class="fa fa-whatsapp fa-lg"></i> SMS/WA: <a href="tel:08123456789">08123456789</a> (Febry)
 
 <hr/>
 
@@ -52,4 +52,4 @@ NB: Peserta dimohon membawa peta **Kompetensi Inti (KI)** dan **Kompetensi Dasar
 
 <i class="fa fa-wechat fa-lg"></i> Line	: [Jogja EduFair](http://line.me/ti/p/~@ftj7214w)
 
-<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](https://jogjaedufair.id)
+<i class="fa fa-globe fa-lg"></i> Website	: [jogjaedufair.id](/)
